@@ -1,0 +1,912 @@
+"","season","player_id","player","player_first_name","player_last_name","position","snaps","first_season_in_league","year_in_league","season_count","franchise_id","team","waa"
+"1",2020,130313,"George Qualls Jr.","George","Qualls Jr.","WR",261,2020,1,0,102,"Akron Zips",-0.009
+"2",2020,84112,"Geordon Porter","Geordon","Porter","WR",126,2018,3,2,110,"Arizona State Sun Devils",0
+"3",2020,42151,"Brandon Bowling","Brandon","Bowling","WR",656,2016,5,4,113,"Arkansas State Red Wolves",-0.043
+"4",2020,123555,"Marquez Bell","Marquez","Bell","WR",4,2020,1,0,138,"Cincinnati Bearcats",0
+"5",2020,83810,"Dimitri Stanley","Dimitri","Stanley","WR",302,2018,3,2,143,"Colorado Buffaloes",0.048
+"6",2020,131692,"Brenden Rice","Brenden","Rice","WR",174,2020,1,0,143,"Colorado Buffaloes",-0.023
+"7",2020,61222,"Damond Philyaw-Johnson","Damond","Philyaw-Johnson","WR",169,2017,4,3,154,"Duke Blue Devils",-0.052
+"8",2020,77997,"Jake Bobo","Jake","Bobo","WR",550,2018,3,2,154,"Duke Blue Devils",0.029
+"9",2020,97402,"Jamal Glaspie","Jamal","Glaspie","WR",46,2019,2,1,169,"Fresno State Bulldogs",0.001
+"10",2020,38547,"Demetris Robertson","Demetris","Robertson","WR",151,2016,5,4,173,"Georgia Bulldogs",0.008
+"11",2020,97164,"Ahmarean Brown","Ahmarean","Brown","WR",325,2019,2,1,176,"Georgia Tech Yellow Jackets",-0.008
+"12",2020,61289,"Jeremy Singleton","Jeremy","Singleton","WR",195,2017,4,3,182,"Houston Cougars",-0.039
+"13",2020,55038,"Charlie Jones","Charlie","Jones","WR",32,2017,4,3,192,"Iowa Hawkeyes",0.082
+"14",2020,100230,"Isaiah Wooden","Isaiah","Wooden","WR",33,2019,2,1,201,"Kent State Golden Flashes",0.011
+"15",2020,42146,"Cee Jay Powell","Cee Jay","Powell","WR",310,2016,5,4,208,"Louisiana Tech Bulldogs",0.029
+"16",2020,61395,"Corey Reed Jr.","Corey","Reed Jr.","WR",20,2017,3,2,210,"Louisville Cardinals",-0.006
+"17",2020,99245,"Devonta Lee","Devonta","Lee","WR",9,2019,2,1,211,"LSU Tigers",-0.004
+"18",2020,97867,"Broc Thompson","Broc","Thompson","WR",157,2019,2,1,214,"Marshall Thundering Herd",-0.001
+"19",2020,84286,"Darryl Jones","Darryl","Jones","WR",164,2018,3,2,215,"Maryland Terrapins",-0.035
+"20",2020,78051,"Jeremy Tate Jr","Jeremy","Tate Jr","WR",73,2018,3,2,218,"Memphis Tigers",-0.011
+"21",2020,97602,"John Rhys Plumlee","John","Rhys Plumlee","QB",97,2019,2,1,226,"Mississippi Rebels",-0.005
+"22",2020,98212,"Garrett Shrader","Garrett","Shrader","WR",11,2019,2,1,227,"Mississippi State Bulldogs",-0.006
+"23",2020,55409,"Emmanuel Logan-Greene","Emmanuel","Logan-Greene","WR",317,2017,4,3,241,"New Mexico Lobos",-0.005
+"24",2020,84332,"Cedric Patterson III","Cedric","Patterson III","WR",194,2018,3,2,241,"New Mexico Lobos",-0.034
+"25",2020,40225,"Dee Anderson","Dee","Anderson","WR",39,2016,5,4,262,"Oklahoma State Cowboys",-0.014
+"26",2020,61594,"Cameron Sullivan-Brown","Cameron","Sullivan-Brown","WR",58,2017,4,3,266,"Penn State Nittany Lions",-0.008
+"27",2020,72158,"Jake Bailey","Jake","Bailey","WR",291,2019,2,1,275,"Rice Owls",0.028
+"28",2020,101352,"Andre Crump Jr.","Andre","Crump Jr.","WR",46,2019,2,1,285,"San Jose State Spartans",-0.01
+"29",2020,124228,"Ger-Cari Caldwell","Ger-Cari","Caldwell","WR",96,2020,1,0,289,"South Carolina Gamecocks",-0.017
+"30",2020,78108,"John Stephens Jr.","John","Stephens Jr.","WR",107,2018,3,2,305,"TCU Horned Frogs",-0.021
+"31",2020,84497,"Cam Johnson","Cam","Johnson","WR",422,2018,3,2,333,"Vanderbilt Commodores",0.107
+"32",2020,123767,"Iraken Armstead","Iraken","Armstead","QB",33,2020,1,0,335,"Virginia Cavaliers",0.012
+"33",2020,130321,"Marquis Whitmire","Marquis","Whitmire","WR",15,2020,1,0,102,"Akron Zips",-0.004
+"34",2020,84087,"Xavier Williams","Xavier","Williams","WR",56,2018,3,2,103,"Alabama Crimson Tide",-0.01
+"35",2020,61133,"B.J. Casteel","B.J.","Casteel","WR",194,2017,4,3,109,"Arizona Wildcats",-0.022
+"36",2020,131606,"LV Bunkley-Shelton","LV","Bunkley-Shelton","WR",129,2020,1,0,110,"Arizona State Sun Devils",-0.021
+"37",2020,104182,"Adam Jones","Adam","Jones","WR",39,2019,2,1,134,"Central Michigan Chippewas",-0.005
+"38",2020,100644,"La'Vontae Shenault","La'Vontae","Shenault","WR",163,2019,2,1,143,"Colorado Buffaloes",0.005
+"39",2020,61237,"Quian Williams","Quian","Williams","WR",395,2017,4,3,160,"Eastern Michigan Eagles",0.05
+"40",2020,41928,"Andrew Parchment","Andrew","Parchment","WR",497,2016,5,4,198,"Kansas Jayhawks",-0.088
+"41",2020,98733,"Ezra Naylor II","Ezra","Naylor II","WR",183,2019,2,1,198,"Kansas Jayhawks",-0.034
+"42",2020,61384,"Perry Carter","Perry","Carter","WR",282,2017,4,3,209,"Louisiana-Monroe Warhawks",0.038
+"43",2020,124211,"Ja'Mori Maclin","Ja'Mori","Maclin","WR",13,2020,1,0,229,"Missouri Tigers",-0.005
+"44",2020,101634,"Luke McCaffrey","Luke","McCaffrey","QB",206,2019,2,1,238,"Nebraska Cornhuskers",-0.13
+"45",2020,129688,"Marcus Fleming","Marcus","Fleming","WR",81,2020,1,0,238,"Nebraska Cornhuskers",-0.01
+"46",2020,84352,"Micah Jones","Micah","Jones","WR",3,2018,3,2,258,"Notre Dame Fighting Irish",-0.003
+"47",2020,101701,"Jameson Williams","Jameson","Williams","WR",308,2019,2,1,260,"Ohio State Buckeyes",-0.023
+"48",2020,61569,"Charleston Rambo","Charleston","Rambo","WR",456,2017,4,3,261,"Oklahoma Sooners",-0.042
+"49",2020,97270,"Mycah Pittman","Mycah","Pittman","WR",191,2019,2,1,264,"Oregon Ducks",0.015
+"50",2020,129857,"Andrew Mason","Andrew","Mason","WR",199,2020,1,0,275,"Rice Owls",-0.033
+"51",2020,84391,"Paul Woods","Paul","Woods","WR",53,2018,3,2,278,"Rutgers Scarlet Knights",-0.01
+"52",2020,98748,"Mikel Barkley","Mikel","Barkley","WR",283,2019,2,1,305,"TCU Horned Frogs",-0.094
+"53",2020,123063,"Lex Boucvalt","Lex","Boucvalt","WR",3,2020,1,0,305,"TCU Horned Frogs",-0.003
+"54",2020,124303,"Malachi Wideman","Malachi","Wideman","WR",38,2020,1,0,307,"Tennessee Volunteers",0.005
+"55",2020,77951,"Malcolm Epps","Malcolm","Epps","TE",98,2018,3,2,311,"Texas Longhorns",-0.007
+"56",2020,84443,"Jah'Marae Sheread","Jah'Marae","Sheread","WR",266,2018,3,2,314,"Texas State Bobcats",0.093
+"57",2020,123153,"Ja'Lynn Polk","Ja'Lynn","Polk","WR",378,2020,1,0,315,"Texas Tech Red Raiders",-0.05
+"58",2020,101351,"Marcus Phillips Jr.","Marcus","Phillips Jr.","WR",83,2019,2,1,325,"UNLV Rebels",-0.013
+"59",2020,71345,"Bru McCoy","Bru","McCoy","WR",210,2019,2,1,326,"USC Trojans",-0.006
+"60",2020,61777,"Bryan Thompson","Bryan","Thompson","WR",254,2017,4,3,328,"Utah Utes",0.015
+"61",2020,71385,"Cam Gardner","Cam","Gardner","WR",14,2019,2,1,328,"Utah Utes",-0.006
+"62",2020,84502,"Austin Osborne","Austin","Osborne","WR",6,2018,3,2,340,"Washington Huskies",-0.003
+"63",2020,88318,"Isaiah Esdale","Isaiah","Esdale","WR",152,2018,3,2,343,"West Virginia Mountaineers",0.019
+"64",2020,84520,"A.J. Abbott","A.J.","Abbott","WR",96,2018,3,2,349,"Wisconsin Badgers",-0.02
+"65",2020,55059,"Julian Hicks","Julian","Hicks","WR",75,2017,4,3,102,"Akron Zips",-0.007
+"66",2020,97776,"Boobie Curry","Boobie","Curry","WR",230,2019,2,1,109,"Arizona Wildcats",-0.032
+"67",2020,84110,"Keith Davis","Keith","Davis","WR",35,2018,3,2,110,"Arizona State Sun Devils",-0.002
+"68",2020,60402,"Caylin Newton","Caylin","Newton","WR",34,2017,4,3,115,"Auburn Tigers",-0.008
+"69",2020,131671,"Chris Carpenter","Chris","Carpenter","WR",1,2020,1,0,143,"Colorado Buffaloes",-0.003
+"70",2020,55906,"Chris Coleman","Chris","Coleman","WR",91,2017,4,3,169,"Fresno State Bulldogs",-0.011
+"71",2020,99130,"D'Wan Mathis","D'Wan","Mathis","QB",80,2019,2,1,173,"Georgia Bulldogs",-0.098
+"72",2020,84196,"Cornelius McCoy","Cornelius","McCoy","WR",412,2018,3,2,175,"Georgia State Panthers",0.028
+"73",2020,62988,"Adonicas Sanders","Adonicas","Sanders","WR",341,2017,4,3,176,"Georgia Tech Yellow Jackets",-0.023
+"74",2020,84225,"Jacolby Hewitt","Jacolby","Hewitt","WR",94,2018,3,2,190,"Indiana Hoosiers",0.03
+"75",2020,61360,"Isaiah Epps","Isaiah","Epps","WR",180,2017,4,3,202,"Kentucky Wildcats",-0.013
+"76",2020,84245,"Allen Dailey Jr.","Allen","Dailey Jr.","WR",479,2018,3,2,202,"Kentucky Wildcats",0.006
+"77",2020,122730,"Jordan Watkins","Jordan","Watkins","WR",122,2020,1,0,210,"Louisville Cardinals",0.021
+"78",2020,84278,"Artie Henry","Artie","Henry","WR",294,2018,3,2,214,"Marshall Thundering Herd",0.026
+"79",2020,61413,"Carlos Carriere","Carlos","Carriere","WR",46,2017,4,3,215,"Maryland Terrapins",0.001
+"80",2020,78016,"Dee Wiggins","Dee","Wiggins","WR",701,2018,3,2,220,"Miami (FL) Hurricanes",-0.171
+"81",2020,101745,"Julian Barnett","Julian","Barnett","CB",15,2019,2,1,223,"Michigan State Spartans",-0.047
+"82",2020,84300,"Demarcus Gregory","Demarcus","Gregory","WR",39,2018,3,2,226,"Mississippi Rebels",-0.007
+"83",2020,84010,"Geor'Quarius Spivey","Geor'Quarius","Spivey","WR",241,2018,3,2,227,"Mississippi State Bulldogs",-0.108
+"84",2020,97593,"JaVonta Payton","JaVonta","Payton","WR",267,2019,2,1,227,"Mississippi State Bulldogs",-0.045
+"85",2020,99584,"Emery Simmons","Emery","Simmons","WR",300,2019,2,1,245,"North Carolina Tar Heels",0.022
+"86",2020,78200,"Jerome Buckner","Jerome","Buckner","WR",35,2018,3,2,259,"Ohio Bobcats",-0.002
+"87",2020,84378,"Daniel George","Daniel","George","WR",259,2018,3,2,266,"Penn State Nittany Lions",-0.035
+"88",2020,84380,"Amad Anderson Jr.","Amad","Anderson Jr.","WR",151,2018,3,2,273,"Purdue Boilermakers",-0.031
+"89",2020,84397,"Kobe Smith","Kobe","Smith","WR",248,2018,3,2,284,"San Diego State Aztecs",-0.002
+"90",2020,98848,"Kenney Solomon","Kenney","Solomon","WR",3,2019,2,1,307,"Tennessee Volunteers",-0.008
+"91",2020,123112,"Moochie Dixon","Moochie","Dixon","WR",31,2020,1,0,311,"Texas Longhorns",0.003
+"92",2020,78146,"KeSean Carter","KeSean","Carter","WR",220,2018,3,2,315,"Texas Tech Red Raiders",0.033
+"93",2020,40418,"Keon Howard","Keon","Howard","QB",164,2016,5,4,319,"Tulane Green Wave",-0.093
+"94",2020,123740,"Ja'Cyais Credle","Ja'Cyais","Credle","WR",205,2020,1,0,323,"UCF Knights",-0.042
+"95",2020,100894,"Jacob Cowing","Jacob","Cowing","WR",453,2019,2,1,330,"UTEP Miners",0.03
+"96",2020,40202,"Brennon Dingle","Brennon","Dingle","WR",365,2016,5,4,331,"UTSA Roadrunners",-0.045
+"97",2020,123302,"Gregory Clayton Jr.","Gregory","Clayton Jr.","WR",10,2020,1,0,331,"UTSA Roadrunners",-0.003
+"98",2020,98556,"Jayden Harrison","Jayden","Harrison","WR",76,2019,2,1,333,"Vanderbilt Commodores",-0.044
+"99",2020,61807,"Jamire Calvin","Jamire","Calvin","WR",255,2017,4,3,341,"Washington State Cougars",-0.013
+"100",2020,83459,"Beanie Bishop","Beanie","Bishop","CB",267,2018,3,2,346,"Western Kentucky Hilltoppers",-0.01
+"101",2020,122170,"Chris Houston","Chris","Houston","WR",5,2020,1,0,136,"Charlotte 49ers",-0.003
+"102",2020,78022,"Derion Kendrick","Derion","Kendrick","CB",383,2018,3,2,140,"Clemson Tigers",0.017
+"103",2020,77996,"Dennis Smith","Dennis","Smith","WR",370,2018,3,2,154,"Duke Blue Devils",-0.011
+"104",2020,122413,"Bryan Robinson","Bryan","Robinson","WR",57,2020,1,0,167,"Florida State Seminoles",-0.011
+"105",2020,84220,"Donny Navarro III","Donny","Navarro III","WR",205,2018,3,2,187,"Illinois Fighting Illini",-0.004
+"106",2020,101711,"Dalevon Campbell","Dalevon","Campbell","WR",75,2019,2,1,187,"Illinois Fighting Illini",-0.007
+"107",2020,61328,"Tarique Milton","Tarique","Milton","WR",93,2017,4,3,193,"Iowa State Cyclones",0.011
+"108",2020,61350,"DJ Render","DJ","Render","WR",185,2017,4,3,199,"Kansas State Wildcats",-0.028
+"109",2020,84248,"Bryce Oliver","Bryce","Oliver","WR",132,2018,3,2,202,"Kentucky Wildcats",-0.021
+"110",2020,42008,"Calif Gossett","Calif","Gossett","WR",125,2016,5,4,207,"Louisiana Ragin' Cajuns",0.003
+"111",2020,97111,"Chandler Whitfield","Chandler","Whitfield","WR",149,2019,2,1,209,"Louisiana-Monroe Warhawks",-0.094
+"112",2020,122707,"Christian Fitzpatrick","Christian","Fitzpatrick","WR",4,2020,1,0,210,"Louisville Cardinals",-0.003
+"113",2020,84285,"Brian Cobbs","Brian","Cobbs","WR",254,2018,3,2,215,"Maryland Terrapins",-0.019
+"114",2020,97422,"Dino Tomlin","Dino","Tomlin","WR",5,2019,2,1,215,"Maryland Terrapins",-0.003
+"115",2020,129524,"DeaJaun McDougle","DeaJaun","McDougle","WR",17,2020,1,0,215,"Maryland Terrapins",-0.002
+"116",2020,122232,"Dazalin Worsham","Dazalin","Worsham","WR",1,2020,1,0,220,"Miami (FL) Hurricanes",-0.003
+"117",2020,84310,"Cameron Gardner","Cameron","Gardner","WR",194,2018,3,2,227,"Mississippi State Bulldogs",-0.094
+"118",2020,84316,"Dominic Gicinto","Dominic","Gicinto","WR",43,2018,3,2,229,"Missouri Tigers",-0.012
+"119",2020,61513,"Beau Corrales","Beau","Corrales","WR",181,2017,4,3,245,"North Carolina Tar Heels",0.008
+"120",2020,61540,"Dennis Robinson","Dennis","Robinson","WR",223,2017,4,3,254,"Northern Illinois Huskies",-0.05
+"121",2020,61584,"Daewood Davis","Daewood","Davis","CB",4,2017,4,3,264,"Oregon Ducks",-0.005
+"122",2020,84394,"BJ Busbee","BJ","Busbee","WR",167,2018,3,2,284,"San Diego State Aztecs",-0.05
+"123",2020,78109,"Te'Vailance Hunt","Te'Vailance","Hunt","WR",71,2018,3,2,305,"TCU Horned Frogs",-0.011
+"124",2020,40666,"Brandon Johnson","Brandon","Johnson","WR",305,2016,5,4,307,"Tennessee Volunteers",0.025
+"125",2020,124269,"Dee Beckwith","Dee","Beckwith","WR",5,2020,1,0,307,"Tennessee Volunteers",0.003
+"126",2020,123695,"Bryce Childress","Bryce","Childress","WR",10,2020,1,0,318,"Troy Trojans",-0.003
+"127",2020,123215,"Cornelius Dyson","Cornelius","Dyson","S",366,2020,1,0,319,"Tulane Green Wave",0.081
+"128",2020,84465,"Chase Cota","Chase","Cota","WR",428,2018,3,2,324,"UCLA Bruins",-0.053
+"129",2020,101125,"Bryce Miller","Bryce","Miller","WR",380,2019,2,1,327,"USF Bulls",0.042
+"130",2020,61804,"Terrell Bynum","Terrell","Bynum","WR",133,2017,4,3,340,"Washington Huskies",0.006
+"131",2020,97181,"Dayton Wade","Dayton","Wade","WR",195,2019,2,1,346,"Western Kentucky Hilltoppers",-0.012
+"132",2020,100890,"Terez Traynor","Terez","Traynor","WR",159,2019,2,1,346,"Western Kentucky Hilltoppers",-0.072
+"133",2020,40371,"Dontae Crow","Dontae","Crow","WR",173,2016,5,4,351,"Wyoming Cowboys",-0.009
+"134",2020,123904,"Javon Baker","Javon","Baker","WR",100,2020,1,0,103,"Alabama Crimson Tide",-0.013
+"135",2020,55091,"Javan Hawes","Javan","Hawes","WR",34,2017,4,3,113,"Arkansas State Red Wolves",-0.063
+"136",2020,98023,"Jalen McGaughy","Jalen","McGaughy","WR",89,2019,2,1,117,"Ball State Cardinals",0.034
+"137",2020,61173,"CJ Lewis","CJ","Lewis","WR",625,2017,4,3,121,"Boston College Eagles",0.036
+"138",2020,77971,"Jehlani Galloway","Jehlani","Galloway","WR",109,2018,3,2,121,"Boston College Eagles",0.066
+"139",2020,99571,"Frank Ladson Jr.","Frank","Ladson Jr.","WR",260,2019,2,1,140,"Clemson Tigers",-0.055
+"140",2020,77998,"Jarett Garner","Jarett","Garner","WR",276,2018,3,2,154,"Duke Blue Devils",-0.008
+"141",2020,78081,"Jonathan Johnson","Jonathan","Johnson","WR",5,2018,3,2,156,"East Carolina Pirates",-0.003
+"142",2020,84176,"Jacob Copeland","Jacob","Copeland","WR",506,2018,3,2,163,"Florida Gators",-0.041
+"143",2020,77956,"Jordan Young","Jordan","Young","WR",239,2018,3,2,167,"Florida State Seminoles",-0.047
+"144",2020,84191,"Jaylen Johnson","Jaylen","Johnson","WR",45,2018,3,2,173,"Georgia Bulldogs",-0.02
+"145",2020,99555,"Ezeriah Anderson","Ezeriah","Anderson","WR",10,2019,2,1,193,"Iowa State Cyclones",-0.006
+"146",2020,122548,"Jordan Brown","Jordan","Brown","WR",14,2020,1,0,198,"Kansas Jayhawks",-0.005
+"147",2020,78159,"Javaughn Williams","Javaughn","Williams","WR",21,2018,3,2,201,"Kent State Golden Flashes",0
+"148",2020,97357,"Jeremiah Josephs","Jeremiah","Josephs","WR",6,2019,2,1,221,"Miami (OH) RedHawks",-0.003
+"149",2020,130513,"James Burns","James","Burns","WR",73,2020,1,0,221,"Miami (OH) RedHawks",-0.026
+"150",2020,97800,"Jadon Jackson","Jadon","Jackson","WR",71,2019,2,1,226,"Mississippi Rebels",-0.006
+"151",2020,99233,"Jordan Jernigan","Jordan","Jernigan","WR",7,2019,2,1,226,"Mississippi Rebels",-0.003
+"152",2020,84314,"Jalen Knox","Jalen","Knox","WR",300,2018,3,2,229,"Missouri Tigers",0.047
+"153",2020,61501,"Elijah Cooks","Elijah","Cooks","WR",24,2017,4,3,239,"Nevada Wolf Pack",0
+"154",2020,70363,"Isaac Jernagin","Isaac","Jernagin","WR",59,2020,1,0,239,"Nevada Wolf Pack",0.017
+"155",2020,41998,"Eric Collins","Eric","Collins","WR",1,2016,5,4,248,"North Carolina State Wolfpack",-0.003
+"156",2020,61555,"Jafar Armstrong","Jafar","Armstrong","HB",49,2017,4,3,258,"Notre Dame Fighting Irish",-0.05
+"157",2020,78199,"Isiah Cox","Isiah","Cox","WR",113,2018,3,2,259,"Ohio Bobcats",0.021
+"158",2020,39914,"Theo Howard","Theo","Howard","WR",240,2016,5,4,261,"Oklahoma Sooners",-0.021
+"159",2020,97791,"Jadon Haselwood","Jadon","Haselwood","WR",63,2019,2,1,261,"Oklahoma Sooners",0.003
+"160",2020,129768,"Joseph Bruno","Joseph","Bruno","HB",3,2020,1,0,266,"Penn State Nittany Lions",0.021
+"161",2020,40215,"Jared Sparks","Jared","Sparks","WR",65,2016,5,4,273,"Purdue Boilermakers",-0.014
+"162",2020,102935,"Jamel Thomas","Jamel","Thomas","WR",22,2019,2,1,288,"South Alabama Jaguars",-0.01
+"163",2020,61705,"Jadan Blue","Jadan","Blue","WR",423,2017,4,3,306,"Temple Owls",0.042
+"164",2020,98750,"Jaylen Erwin","Jaylen","Erwin","WR",62,2019,2,1,324,"UCLA Bruins",-0.005
+"165",2020,52300,"Fred Lloyd Jr.","Fred","Lloyd Jr.","TE",6,2017,4,3,327,"USF Bulls",-0.007
+"166",2020,84481,"Tim Patrick Jr.","Tim","Patrick Jr.","WR",38,2018,3,2,329,"Utah State Aggies",-0.001
+"167",2020,61793,"James Bostic","James","Bostic","WR",68,2017,4,3,333,"Vanderbilt Commodores",-0.021
+"168",2020,22869,"Evan Fairs","Evan","Fairs","WR",104,2016,5,4,337,"Virginia Tech Hokies",-0.009
+"169",2020,131934,"Joey Hobert","Joey","Hobert","WR",42,2020,1,0,341,"Washington State Cougars",-0.002
+"170",2020,42095,"Jahcour Pearson","Jahcour","Pearson","WR",88,2016,5,4,346,"Western Kentucky Hilltoppers",-0.006
+"171",2020,97293,"Jeremiah Fails","Jeremiah","Fails","WR",10,2019,2,1,346,"Western Kentucky Hilltoppers",-0.004
+"172",2020,61825,"Jaylen Hall","Jaylen","Hall","WR",308,2017,4,3,347,"Western Michigan Broncos",0.012
+"173",2020,99214,"Josh Lanier","Josh","Lanier","WR",1,2019,2,1,103,"Alabama Crimson Tide",-0.003
+"174",2020,76366,"Johnny Wilson","Johnny","Wilson","WR",119,2020,1,0,110,"Arizona State Sun Devils",-0.003
+"175",2020,123989,"Kobe Hudson","Kobe","Hudson","WR",117,2020,1,0,115,"Auburn Tigers",-0.009
+"176",2020,78155,"Julian Ortega-Jones","Julian","Ortega-Jones","WR",236,2018,3,2,122,"Bowling Green Falcons",-0.029
+"177",2020,97095,"Micaleous Elder","Micaleous","Elder","WR",237,2019,2,1,136,"Charlotte 49ers",-0.002
+"178",2020,61271,"Matt Landers","Matt","Landers","WR",110,2017,4,3,173,"Georgia Bulldogs",-0.018
+"179",2020,124036,"Justin Robinson","Justin","Robinson","WR",7,2020,1,0,173,"Georgia Bulldogs",-0.003
+"180",2020,61276,"Malik Murray","Malik","Murray","WR",309,2017,4,3,174,"Georgia Southern Eagles",0.006
+"181",2020,97215,"Lincoln Victor","Lincoln","Victor","WR",13,2019,2,1,180,"Hawaii Warriors",-0.015
+"182",2020,101111,"Ke'Andre Street","Ke'Andre","Street","WR",57,2019,2,1,182,"Houston Cougars",-0.006
+"183",2020,101712,"Kyron Cumby","Kyron","Cumby","WR",70,2019,2,1,187,"Illinois Fighting Illini",0.002
+"184",2020,84224,"Miles Marshall","Miles","Marshall","WR",415,2018,3,2,190,"Indiana Hoosiers",-0.02
+"185",2020,61330,"Parker Rickert","Parker","Rickert","WR",12,2017,4,3,193,"Iowa State Cyclones",-0.003
+"186",2020,99552,"Joshua Youngblood","Joshua","Youngblood","WR",24,2019,2,1,199,"Kansas State Wildcats",-0.005
+"187",2020,61394,"Justin Marshall","Justin","Marshall","WR",289,2017,4,3,210,"Louisville Cardinals",-0.084
+"188",2020,97779,"Lance Legendre","Lance","Legendre","QB",34,2019,2,1,215,"Maryland Terrapins",-0.012
+"189",2020,78014,"Mark Pope","Mark","Pope","WR",589,2018,3,2,220,"Miami (FL) Hurricanes",-0.136
+"190",2020,124173,"Malik Heath","Malik","Heath","WR",439,2020,1,0,227,"Mississippi State Bulldogs",-0.091
+"191",2020,74298,"Justin Lockhart","Justin","Lockhart","WR",326,2019,2,1,239,"Nevada Wolf Pack",-0.03
+"192",2020,98740,"Jordan Kress","Jordan","Kress","WR",197,2019,2,1,241,"New Mexico Lobos",0.006
+"193",2020,78175,"Jyran Mitchell","Jyran","Mitchell","HB",3,2018,3,2,254,"Northern Illinois Huskies",-0.009
+"194",2020,102956,"Kendall Abdur-Rahman","Kendall","Abdur-Rahman","HB",2,2019,2,1,258,"Notre Dame Fighting Irish",-0.003
+"195",2020,123000,"Jordan Addison","Jordan","Addison","WR",503,2020,1,0,268,"Pittsburgh Panthers",0.017
+"196",2020,99527,"Marcus Washington","Marcus","Washington","WR",103,2019,2,1,311,"Texas Longhorns",-0.023
+"197",2020,99206,"Kam Brown","Kam","Brown","WR",133,2019,2,1,312,"Texas A&M Aggies",-0.002
+"198",2020,102929,"Kaylon Geiger","Kaylon","Geiger","WR",522,2019,2,1,318,"Troy Trojans",0.039
+"199",2020,101138,"Malik Rodgers","Malik","Rodgers","WR",62,2019,2,1,320,"Tulsa Golden Hurricane",-0.02
+"200",2020,99222,"John David White","John David","White","WR",50,2019,2,1,111,"Arkansas Razorbacks",-0.011
+"201",2020,78156,"Rodell Rahmaan","Rodell","Rahmaan","LB",17,2018,3,2,122,"Bowling Green Falcons",-0.005
+"202",2020,84529,"Rico Arnold","Rico","Arnold","WR",119,2018,3,2,136,"Charlotte 49ers",-0.021
+"203",2020,122137,"Ajou Ajou","Ajou","Ajou","WR",109,2020,1,0,140,"Clemson Tigers",-0.018
+"204",2020,97169,"Rodney Wright III","Rodney","Wright III","WR",1,2019,2,1,169,"Fresno State Bulldogs",-0.003
+"205",2020,40384,"Shai Werts","Shai","Werts","QB",651,2016,5,4,174,"Georgia Southern Eagles",-0.147
+"206",2020,84197,"Sam Pinckney","Sam","Pinckney","WR",664,2018,3,2,175,"Georgia State Panthers",0.233
+"207",2020,40691,"Keith Corbin","Keith","Corbin","WR",391,2016,5,4,182,"Houston Cougars",0
+"208",2020,78128,"Joseph Scates","Joseph","Scates","WR",192,2018,3,2,193,"Iowa State Cyclones",-0.032
+"209",2020,60416,"Nick Ast","Nick","Ast","QB",41,2017,4,3,199,"Kansas State Wildcats",-0.029
+"210",2020,84247,"Akeem Hayes","Akeem","Hayes","WR",74,2018,3,2,202,"Kentucky Wildcats",0.007
+"211",2020,124085,"Alex Adams","Alex","Adams","WR",12,2020,1,0,211,"LSU Tigers",-0.003
+"212",2020,129639,"Ricky White","Ricky","White","WR",166,2020,1,0,223,"Michigan State Spartans",0.001
+"213",2020,40668,"Seth Green","Seth","Green","WR",117,2016,5,4,225,"Minnesota Golden Gophers",-0.007
+"214",2020,61494,"Kade Warner","Kade","Warner","WR",163,2017,4,3,238,"Nebraska Cornhuskers",-0.054
+"215",2020,122834,"Stephen Gosnell","Stephen","Gosnell","WR",11,2020,1,0,245,"North Carolina Tar Heels",-0.002
+"216",2020,84335,"Austin Ogunmakin","Austin","Ogunmakin","WR",484,2018,3,2,251,"North Texas Mean Green",-0.041
+"217",2020,40906,"Landon Wolf","Landon","Wolf","WR",240,2016,5,4,262,"Oklahoma State Cowboys",0.009
+"218",2020,77960,"Shocky Jacques-Louis","Shocky","Jacques-Louis","WR",448,2018,3,2,268,"Pittsburgh Panthers",-0.04
+"219",2020,75967,"August Pitre III","August","Pitre III","WR",7,2018,3,2,275,"Rice Owls",-0.002
+"220",2020,74501,"Isaiah Holiness","Isaiah","Holiness","WR",108,2019,2,1,285,"San Jose State Spartans",-0.092
+"221",2020,124250,"Rico Powers","Rico","Powers","WR",159,2020,1,0,289,"South Carolina Gamecocks",-0.042
+"222",2020,99531,"Al'vonte Woodard","Al'vonte","Woodard","WR",142,2018,3,2,311,"Texas Longhorns",-0.023
+"223",2020,60558,"Connor Blumrick","Connor","Blumrick","FB",2,2017,4,3,312,"Texas A&M Aggies",-0.003
+"224",2020,91115,"Isaiah Winstead","Isaiah","Winstead","WR",344,2018,2,1,316,"Toledo Rockets",0.031
+"225",2020,100886,"RaJae' Johnson","RaJae'","Johnson","WR",55,2019,2,1,321,"UAB Blazers",-0.017
+"226",2020,101350,"Steve Jenkins","Steve","Jenkins","WR",156,2019,2,1,325,"UNLV Rebels",-0.017
+"227",2020,86854,"Johnny Ford","Johnny","Ford","HB",167,2018,3,2,327,"USF Bulls",-0.013
+"228",2020,43380,"Samson Nacua","Samson","Nacua","WR",51,2016,5,4,328,"Utah Utes",-0.003
+"229",2020,84499,"Amir Abdur-Rahman","Amir","Abdur-Rahman","WR",512,2018,3,2,333,"Vanderbilt Commodores",0.072
+"230",2020,97431,"Nolan Groulx","Nolan","Groulx","WR",311,2019,2,1,339,"Wake Forest Demon Deacons",-0.089
+"231",2020,42150,"Jordan Chin","Jordan","Chin","WR",47,2016,5,4,340,"Washington Huskies",-0.009
+"232",2020,100632,"Puka Nacua","Puka","Nacua","WR",88,2019,2,1,340,"Washington Huskies",-0.011
+"233",2020,131910,"Sawyer Racanelli","Sawyer","Racanelli","WR",2,2020,1,0,340,"Washington Huskies",-0.003
+"234",2020,78030,"Sean Ryan","Sean","Ryan","WR",366,2018,3,2,343,"West Virginia Mountaineers",-0.017
+"235",2020,123410,"Samuel Brown","Samuel","Brown","WR",163,2020,1,0,343,"West Virginia Mountaineers",-0.01
+"236",2020,121539,"Corey Rucker","Corey","Rucker","WR",124,2020,1,0,113,"Arkansas State Red Wolves",0.065
+"237",2020,123978,"Elijah Canion","Elijah","Canion","WR",29,2020,1,0,115,"Auburn Tigers",0.004
+"238",2020,47706,"Isaac James-Gray","Isaac","James-Gray","WR",18,2015,6,5,117,"Ball State Cardinals",0.011
+"239",2020,84150,"Nikko Remigio","Nikko","Remigio","WR",210,2018,3,2,130,"California Golden Bears",-0.009
+"240",2020,61216,"K.D. Nixon","K.D.","Nixon","WR",192,2017,4,3,143,"Colorado Buffaloes",-0.013
+"241",2020,100867,"Terique Owens","Terique","Owens","WR",1,2019,2,1,165,"Florida Atlantic Owls",-0.003
+"242",2020,124017,"Jermaine Burton","Jermaine","Burton","WR",504,2020,1,0,173,"Georgia Bulldogs",0.001
+"243",2020,75945,"Nick Mardner","Nick","Mardner","WR",194,2018,3,2,180,"Hawaii Warriors",-0.005
+"244",2020,61291,"Tre'von Bradley","Tre'von","Bradley","WR",284,2017,4,3,182,"Houston Cougars",-0.025
+"245",2020,129427,"Deuce Spann","Deuce","Spann","QB",1,2020,1,0,187,"Illinois Fighting Illini",-0.003
+"246",2020,78136,"Stephon Robinson Jr.","Stephon","Robinson Jr.","WR",21,2018,3,2,198,"Kansas Jayhawks",0.004
+"247",2020,61362,"Clevan Thomas Jr.","Clevan","Thomas Jr.","WR",77,2017,4,3,202,"Kentucky Wildcats",-0.007
+"248",2020,122646,"Kyren Lacy","Kyren","Lacy","WR",347,2020,1,0,207,"Louisiana Ragin' Cajuns",0.076
+"249",2020,84269,"Jahquan Bloomfield","Jahquan","Bloomfield","WR",254,2018,3,2,209,"Louisiana-Monroe Warhawks",-0.039
+"250",2020,124104,"Koy Moore","Koy","Moore","WR",259,2020,1,0,211,"LSU Tigers",-0.017
+"251",2020,97288,"Tahj Washington","Tahj","Washington","WR",683,2019,2,1,218,"Memphis Tigers",0.046
+"252",2020,101695,"Giles Jackson","Giles","Jackson","WR",141,2019,2,1,222,"Michigan Wolverines",0.039
+"253",2020,101123,"Devin Mathews","Devin","Mathews","WR",270,2019,2,1,237,"Navy Midshipmen",-0.016
+"254",2020,97855,"Charles Ross","Charles","Ross","WR",55,2019,2,1,239,"Nevada Wolf Pack",-0.005
+"255",2020,61526,"Greg White","Greg","White","WR",237,2017,4,3,251,"North Texas Mean Green",-0.056
+"256",2020,61544,"Kyric McGowan","Kyric","McGowan","WR",451,2017,4,3,256,"Northwestern Wildcats",0.071
+"257",2020,39948,"Dylan Thomas","Dylan","Thomas","WR",51,2016,5,4,305,"TCU Horned Frogs",-0.003
+"258",2020,84441,"Caleb Chapman","Caleb","Chapman","WR",155,2018,3,2,312,"Texas A&M Aggies",0.007
+"259",2020,102925,"Trevis Graham ","Trevis","Graham ","WR",447,2018,3,2,314,"Texas State Bobcats",0.006
+"260",2020,78085,"Jaylon Robinson","Jaylon","Robinson","WR",833,2018,3,2,323,"UCF Knights",0.028
+"261",2020,64162,"Tre Caine","Tre","Caine","S",318,2017,4,3,325,"UNLV Rebels",-0.025
+"262",2020,84468,"Patrick Ballard","Patrick","Ballard","WR",9,2018,3,2,325,"UNLV Rebels",-0.004
+"263",2020,52319,"Randall St. Felix","Randall","St. Felix","WR",272,2017,4,3,327,"USF Bulls",-0.005
+"264",2020,86859,"Terrence Horne","Terrence","Horne","WR",35,2018,3,2,327,"USF Bulls",-0.002
+"265",2020,41966,"Devaughn Cooper","Devaughn","Cooper","WR",267,2016,5,4,330,"UTEP Miners",-0.006
+"266",2020,61099,"Nate Stewart","Nate","Stewart","WR",352,2017,4,3,102,"Akron Zips",-0.025
+"267",2020,100275,"Michael Mathison","Michael","Mathison","WR",124,2019,2,1,102,"Akron Zips",-0.021
+"268",2020,100660,"Ricky Pearsall","Ricky","Pearsall","WR",79,2019,2,1,110,"Arizona State Sun Devils",0.015
+"269",2020,84117,"Michael Woods II","Michael","Woods II","WR",635,2018,3,2,111,"Arkansas Razorbacks",0.104
+"270",2020,61166,"R.J. Sneed II","R.J.","Sneed II","WR",581,2017,4,3,118,"Baylor Bears",0.064
+"271",2020,97287,"Trevor Wilson","Trevor","Wilson","WR",129,2019,2,1,126,"Buffalo Bulls",0.083
+"272",2020,100647,"Makai Polk","Makai","Polk","WR",176,2019,2,1,130,"California Golden Bears",0.003
+"273",2020,61272,"Trey Blount","Trey","Blount","WR",38,2017,4,3,173,"Georgia Bulldogs",-0.003
+"274",2020,55196,"Chris Bacon","Chris","Bacon","S",330,2017,4,3,175,"Georgia State Panthers",-0.09
+"275",2020,78017,"Marquez Ezzard","Marquez","Ezzard","WR",150,2018,3,2,176,"Georgia Tech Yellow Jackets",0.008
+"276",2020,38411,"Melquise Stovall","Melquise","Stovall","WR",263,2016,5,4,180,"Hawaii Warriors",-0.036
+"277",2020,84215,"Carlos Sandy","Carlos","Sandy","WR",51,2018,3,2,187,"Illinois Fighting Illini",-0.012
+"278",2020,122560,"Tristan Golightly","Tristan","Golightly","WR",86,2020,1,0,198,"Kansas Jayhawks",-0.018
+"279",2020,99248,"Trey Palmer","Trey","Palmer","WR",151,2019,2,1,211,"LSU Tigers",0.008
+"280",2020,129503,"Nick DeGennaro","Nick","DeGennaro","WR",7,2020,1,0,215,"Maryland Terrapins",0.004
+"281",2020,75926,"Samuel Emilus","Samuel","Emilus","WR",181,2018,3,2,216,"Massachusetts Minutemen",0
+"282",2020,61500,"Daiyan Henley","Daiyan","Henley","LB",360,2017,4,3,239,"Nevada Wolf Pack",0.024
+"283",2020,74267,"Melquan Stovall","Melquan","Stovall","WR",420,2019,2,1,239,"Nevada Wolf Pack",-0.116
+"284",2020,128232,"Tory Horton","Tory","Horton","WR",274,2020,1,0,239,"Nevada Wolf Pack",0.064
+"285",2020,40901,"Rontavius Groves","Rontavius","Groves","WR",82,2016,5,4,245,"North Carolina Tar Heels",-0.03
+"286",2020,97398,"Khafre Brown","Khafre","Brown","WR",303,2019,2,1,245,"North Carolina Tar Heels",-0.039
+"287",2020,84346,"Lawrence Keys III","Lawrence","Keys III","WR",73,2018,3,2,258,"Notre Dame Fighting Irish",-0.02
+"288",2020,122902,"Jordan Johnson","Jordan","Johnson","WR",26,2020,1,0,258,"Notre Dame Fighting Irish",-0.004
+"289",2020,52125,"Champ Flemings","Champ","Flemings","WR",172,2017,4,3,265,"Oregon State Beavers",0.001
+"290",2020,61593,"Justin Weller","Justin","Weller","WR",4,2017,4,3,266,"Penn State Nittany Lions",-0.003
+"291",2020,101706,"T.J. Jones","T.J.","Jones","WR",93,2019,2,1,266,"Penn State Nittany Lions",-0.021
+"292",2020,129807,"Maliq Carr","Maliq","Carr","WR",31,2020,1,0,273,"Purdue Boilermakers",-0.011
+"293",2020,61410,"Monterio Hunt","Monterio","Hunt","WR",13,2017,3,2,278,"Rutgers Scarlet Knights",-0.004
+"294",2020,121473,"Antoine Robinson","Antoine","Robinson","WR",260,2020,1,0,296,"Southern Miss Golden Eagles",-0.014
+"295",2020,61692,"Nykeim Johnson","Nykeim","Johnson","WR",458,2017,4,3,304,"Syracuse Orange",0.05
+"296",2020,77742,"Amare Jones","Amare","Jones","HB",264,2018,3,2,319,"Tulane Green Wave",-0.043
+"297",2020,123470,"Mitchell Tinsley","Mitchell","Tinsley","WR",676,2020,1,0,346,"Western Kentucky Hilltoppers",-0.011
+"298",2020,78211,"Boogie Knight","Boogie","Knight","HB",105,2018,3,2,102,"Akron Zips",-0.058
+"299",2020,99564,"Yusuf Terry","Yusuf","Terry","WR",163,2019,2,1,118,"Baylor Bears",-0.023
+"300",2020,84141,"Maclaine Griffin","Maclaine","Griffin","WR",50,2018,3,2,120,"Boise State Broncos",-0.018
+"301",2020,78042,"Ty Scott","Ty","Scott","WR",56,2018,3,2,134,"Central Michigan Chippewas",-0.002
+"302",2020,40509,"Tyler Ringwood","Tyler","Ringwood","WR",131,2016,4,3,136,"Charlotte 49ers",0.013
+"303",2020,40152,"Jordan Jones","Jordan","Jones","WR",232,2016,5,4,138,"Cincinnati Bearcats",0.007
+"304",2020,78041,"Jayshon Jackson","Jayshon","Jackson","WR",432,2018,3,2,138,"Cincinnati Bearcats",-0.045
+"305",2020,47863,"Nate Craig-Myers","Nate","Craig-Myers","WR",173,2016,5,4,144,"Colorado State Rams",-0.016
+"306",2020,77691,"Jairus Grissom","Jairus","Grissom","WR",10,2018,3,2,160,"Eastern Michigan Eagles",0.001
+"307",2020,77955,"D'Marcus Adams","D'Marcus","Adams","WR",106,2018,3,2,165,"Florida Atlantic Owls",-0.02
+"308",2020,78039,"Yanez Rogers","Yanez","Rogers","CB",4,2018,3,2,165,"Florida Atlantic Owls",0.012
+"309",2020,61275,"JJ Holloman","JJ","Holloman","WR",192,2017,4,3,166,"Florida International Golden Panthers",-0.025
+"310",2020,77953,"Warren Thompson","Warren","Thompson","WR",179,2018,3,2,167,"Florida State Seminoles",-0.025
+"311",2020,84226,"Tyrone Tracy","Tyrone","Tracy","WR",218,2018,3,2,192,"Iowa Hawkeyes",-0.002
+"312",2020,57246,"Johnnie Lang","Johnnie","Lang","WR",19,2017,4,3,193,"Iowa State Cyclones",-0.01
+"313",2020,78139,"Wykeen Gill","Wykeen","Gill","WR",48,2018,3,2,199,"Kansas State Wildcats",-0.004
+"314",2020,77969,"Tyler Harrell","Tyler","Harrell","WR",9,2018,3,2,210,"Louisville Cardinals",-0.003
+"315",2020,83710,"Tylan Knight","Tylan","Knight","CB",198,2018,3,2,226,"Mississippi Rebels",0.048
+"316",2020,61107,"Tyrell Shavers","Tyrell","Shavers","WR",130,2017,4,3,227,"Mississippi State Bulldogs",-0.01
+"317",2020,101735,"Wan'Dale Robinson","Wan'Dale","Robinson","WR",464,2019,2,1,238,"Nebraska Cornhuskers",0.049
+"318",2020,99589,"Welton Spottsville","Welton","Spottsville","CB",43,2019,2,1,245,"North Carolina Tar Heels",0.02
+"319",2020,78198,"Shane Hooks","Shane","Hooks","WR",111,2018,3,2,259,"Ohio Bobcats",-0.007
+"320",2020,61631,"Tyler Page","Tyler","Page","WR",447,2017,4,3,287,"SMU Mustangs",0.102
+"321",2020,99198,"Trey Adkins","Trey","Adkins","WR",69,2019,2,1,289,"South Carolina Gamecocks",-0.027
+"322",2020,77970,"Taj Harris","Taj","Harris","WR",572,2018,3,2,304,"Syracuse Orange",0.074
+"323",2020,99693,"Tayvion Robinson","Tayvion","Robinson","WR",665,2019,2,1,337,"Virginia Tech Hokies",0.134
+"324",2020,61806,"Ty Jones","Ty","Jones","WR",179,2017,4,3,340,"Washington Huskies",0.01
+"325",2020,42334,"Xavier Lane","Xavier","Lane","WR",440,2016,5,4,346,"Western Kentucky Hilltoppers",-0.065
+"326",2020,46511,"Tyrrell Pigrome","Tyrrell","Pigrome","QB",629,2016,5,4,346,"Western Kentucky Hilltoppers",-0.333
+"327",2021,61166,"R.J. Sneed II","R.J.","Sneed II","WR",674,2017,5,4,118,"Baylor Bears",-0.01
+"328",2021,122646,"Kyren Lacy","Kyren","Lacy","WR",458,2020,2,1,207,"Louisiana Ragin' Cajuns",-0.048
+"329",2021,40384,"Shai Werts","Shai","Werts","WR",175,2016,6,5,210,"Louisville Cardinals",-0.043
+"330",2021,77969,"Tyler Harrell","Tyler","Harrell","WR",374,2018,4,3,210,"Louisville Cardinals",0.094
+"331",2021,99248,"Trey Palmer","Trey","Palmer","WR",389,2019,3,2,211,"LSU Tigers",-0.06
+"332",2021,98556,"Jayden Harrison","Jayden","Harrison","WR",253,2019,3,2,214,"Marshall Thundering Herd",0.096
+"333",2021,61413,"Carlos Carriere","Carlos","Carriere","WR",391,2017,5,4,215,"Maryland Terrapins",-0.003
+"334",2021,84286,"Darryl Jones","Darryl","Jones","WR",366,2018,4,3,215,"Maryland Terrapins",-0.003
+"335",2021,97422,"Dino Tomlin","Dino","Tomlin","WR",70,2019,3,2,215,"Maryland Terrapins",-0.024
+"336",2021,84529,"Rico Arnold","Rico","Arnold","WR",375,2018,4,3,216,"Massachusetts Minutemen",-0.002
+"337",2021,104919,"Isaac Ross","Isaac","Ross","WR",86,2019,3,2,216,"Massachusetts Minutemen",-0.051
+"338",2021,78014,"Mark Pope","Mark","Pope","CB",12,2018,4,3,220,"Miami (FL) Hurricanes",-0.003
+"339",2021,101696,"George Johnson III","George","Johnson III","CB",25,2019,3,2,222,"Michigan Wolverines",-0.002
+"340",2021,129807,"Maliq Carr","Maliq","Carr","TE",155,2020,2,1,223,"Michigan State Spartans",0.061
+"341",2021,89497,"Izaiah Gathings","Izaiah","Gathings","WR",409,2018,4,3,224,"Middle Tennessee Blue Raiders",0.005
+"342",2021,99209,"Dylan Wright","Dylan","Wright","WR",226,2019,3,2,225,"Minnesota Golden Gophers",0.121
+"343",2021,42095,"Jahcour Pearson","Jahcour","Pearson","WR",563,2016,6,5,226,"Mississippi Rebels",-0.079
+"344",2021,83710,"Tylan Knight","Tylan","Knight","CB",255,2018,4,3,226,"Mississippi Rebels",-0.085
+"345",2021,61807,"Jamire Calvin","Jamire","Calvin","WR",375,2017,5,4,227,"Mississippi State Bulldogs",-0.077
+"346",2021,100647,"Makai Polk","Makai","Polk","WR",878,2019,3,2,227,"Mississippi State Bulldogs",0.046
+"347",2021,124173,"Malik Heath","Malik","Heath","WR",467,2020,2,1,227,"Mississippi State Bulldogs",-0.082
+"348",2021,61535,"Chancellor Brewington","Chancellor","Brewington","TE",74,2017,5,4,238,"Nebraska Cornhuskers",0.005
+"349",2021,61500,"Daiyan Henley","Daiyan","Henley","LB",676,2017,5,4,239,"Nevada Wolf Pack",0.104
+"350",2021,74267,"Melquan Stovall","Melquan","Stovall","WR",618,2019,3,2,239,"Nevada Wolf Pack",-0.061
+"351",2021,128232,"Tory Horton","Tory","Horton","WR",503,2020,2,1,239,"Nevada Wolf Pack",0.039
+"352",2021,55409,"Emmanuel Logan-Greene","Emmanuel","Logan-Greene","WR",95,2017,5,4,241,"New Mexico Lobos",0.03
+"353",2021,146100,"Zarak Scruggs Jr.","Zarak","Scruggs Jr.","WR",278,2021,1,0,241,"New Mexico Lobos",-0.029
+"354",2021,84316,"Dominic Gicinto","Dominic","Gicinto","WR",93,2018,4,3,242,"New Mexico State Aggies",-0.009
+"355",2021,138481,"Isaiah Garcia-Castaneda","Isaiah","Garcia-Castaneda","WR",433,2020,2,1,242,"New Mexico State Aggies",0.051
+"356",2021,97398,"Khafre Brown","Khafre","Brown","WR",125,2019,3,2,245,"North Carolina Tar Heels",-0.046
+"357",2021,99584,"Emery Simmons","Emery","Simmons","WR",324,2019,3,2,245,"North Carolina Tar Heels",-0.037
+"358",2021,122834,"Stephen Gosnell","Stephen","Gosnell","WR",32,2020,2,1,245,"North Carolina Tar Heels",-0.008
+"359",2021,129857,"Andrew Mason","Andrew","Mason","WR",88,2020,2,1,275,"Rice Owls",-0.022
+"360",2021,99552,"Joshua Youngblood","Joshua","Youngblood","WR",73,2019,3,2,278,"Rutgers Scarlet Knights",0.005
+"361",2021,61107,"Tyrell Shavers","Tyrell","Shavers","WR",478,2017,5,4,284,"San Diego State Aztecs",-0.077
+"362",2021,84397,"Kobe Smith","Kobe","Smith","WR",140,2018,4,3,284,"San Diego State Aztecs",-0.04
+"363",2021,91441,"Koby Duru","Koby","Duru","WR",9,2018,4,3,284,"San Diego State Aztecs",0.004
+"364",2021,74501,"Isaiah Holiness","Isaiah","Holiness","WR",95,2019,3,2,285,"San Jose State Spartans",-0.034
+"365",2021,97855,"Charles Ross","Charles","Ross","WR",425,2019,3,2,285,"San Jose State Spartans",-0.044
+"366",2021,97164,"Ahmarean Brown","Ahmarean","Brown","WR",167,2019,3,2,289,"South Carolina Gamecocks",-0.078
+"367",2021,99198,"Trey Adkins","Trey","Adkins","WR",29,2019,3,2,289,"South Carolina Gamecocks",-0.005
+"368",2021,124250,"Rico Powers","Rico","Powers","WR",10,2020,2,1,289,"South Carolina Gamecocks",-0.002
+"369",2021,121473,"Antoine Robinson","Antoine","Robinson","WR",181,2020,2,1,296,"Southern Miss Golden Eagles",-0.007
+"370",2021,41966,"Devaughn Cooper","Devaughn","Cooper","WR",261,2016,6,5,304,"Syracuse Orange",-0.058
+"371",2021,98212,"Garrett Shrader","Garrett","Shrader","QB",668,2019,3,2,304,"Syracuse Orange",-0.06
+"372",2021,84010,"Geor'Quarius Spivey","Geor'Quarius","Spivey","TE",120,2018,4,3,305,"TCU Horned Frogs",-0.022
+"373",2021,98748,"Mikel Barkley","Mikel","Barkley","WR",11,2019,3,2,305,"TCU Horned Frogs",0.001
+"374",2021,61705,"Jadan Blue","Jadan","Blue","WR",394,2017,5,4,306,"Temple Owls",-0.094
+"375",2021,84380,"Amad Anderson Jr.","Amad","Anderson Jr.","WR",345,2018,4,3,306,"Temple Owls",-0.067
+"376",2021,99130,"D'Wan Mathis","D'Wan","Mathis","QB",366,2019,3,2,306,"Temple Owls",-0.194
+"377",2021,97593,"JaVonta Payton","JaVonta","Payton","WR",714,2019,3,2,307,"Tennessee Volunteers",-0.097
+"378",2021,99527,"Marcus Washington","Marcus","Washington","WR",434,2019,3,2,311,"Texas Longhorns",-0.05
+"379",2021,99531,"Al'vonte Woodard","Al'vonte","Woodard","WR",38,2018,4,3,311,"Texas Longhorns",-0.008
+"380",2021,123112,"Moochie Dixon","Moochie","Dixon","WR",147,2020,2,1,311,"Texas Longhorns",-0.016
+"381",2021,40901,"Rontavius Groves","Rontavius","Groves","WR",172,2016,6,5,314,"Texas State Bobcats",-0.091
+"382",2021,78155,"Julian Ortega-Jones","Julian","Ortega-Jones","WR",242,2018,4,3,314,"Texas State Bobcats",-0.03
+"383",2021,102925,"Trevis Graham ","Trevis","Graham ","WR",251,2018,4,3,314,"Texas State Bobcats",0.111
+"384",2021,78150,"Sterling Galban","Sterling","Galban","WR",1,2018,4,3,315,"Texas Tech Red Raiders",-0.003
+"385",2021,145598,"Konata Mumpfield","Konata","Mumpfield","WR",700,2021,1,0,102,"Akron Zips",0.058
+"386",2021,101701,"Jameson Williams","Jameson","Williams","WR",832,2019,3,2,103,"Alabama Crimson Tide",0.524
+"387",2021,147305,"Laquan Veney","Laquan","Veney","HB",68,2021,1,0,114,"Army Black Knights",-0.002
+"388",2021,60402,"Caylin Newton","Caylin","Newton","WR",36,2017,5,4,115,"Auburn Tigers",0.007
+"389",2021,123978,"Elijah Canion","Elijah","Canion","WR",67,2020,2,1,115,"Auburn Tigers",0
+"390",2021,123989,"Kobe Hudson","Kobe","Hudson","WR",386,2020,2,1,115,"Auburn Tigers",0.053
+"391",2021,84427,"Remi Simmons","Remi","Simmons","WR",299,2018,4,3,134,"Central Michigan Chippewas",-0.044
+"392",2021,122170,"Chris Houston","Chris","Houston","WR",1,2020,2,1,136,"Charlotte 49ers",-0.003
+"393",2021,99571,"Frank Ladson Jr.","Frank","Ladson Jr.","WR",137,2019,3,2,140,"Clemson Tigers",-0.021
+"394",2021,122137,"Ajou Ajou","Ajou","Ajou","WR",233,2020,2,1,140,"Clemson Tigers",-0.07
+"395",2021,77997,"Jake Bobo","Jake","Bobo","WR",736,2018,4,3,154,"Duke Blue Devils",0.151
+"396",2021,124036,"Justin Robinson","Justin","Robinson","WR",173,2020,2,1,173,"Georgia Bulldogs",-0.067
+"397",2021,62988,"Adonicas Sanders","Adonicas","Sanders","WR",464,2017,5,4,176,"Georgia Tech Yellow Jackets",0.065
+"398",2021,78017,"Marquez Ezzard","Marquez","Ezzard","WR",17,2018,4,3,176,"Georgia Tech Yellow Jackets",-0.003
+"399",2021,61716,"Camron Buckley","Camron","Buckley","WR",115,2017,5,4,190,"Indiana Hoosiers",-0.024
+"400",2021,84224,"Miles Marshall","Miles","Marshall","WR",598,2018,4,3,190,"Indiana Hoosiers",-0.058
+"401",2021,84269,"Jahquan Bloomfield","Jahquan","Bloomfield","WR",5,2018,4,3,209,"Louisiana-Monroe Warhawks",-0.004
+"402",2021,99245,"Devonta Lee","Devonta","Lee","WR",201,2019,3,2,211,"LSU Tigers",-0.038
+"403",2021,146842,"Teddy Knox","Teddy","Knox","WR",5,2021,1,0,227,"Mississippi State Bulldogs",-0.003
+"404",2021,144350,"Regis Velez","Regis","Velez","WR",5,2020,2,1,237,"Navy Midshipmen",-0.003
+"405",2021,74298,"Justin Lockhart","Justin","Lockhart","WR",413,2019,3,2,239,"Nevada Wolf Pack",0.012
+"406",2021,145355,"Rafael McCoy","Rafael","McCoy","WR",90,2021,1,0,263,"Old Dominion Monarchs",-0.008
+"407",2021,47863,"Nate Craig-Myers","Nate","Craig-Myers","WR",358,2016,6,5,323,"UCF Knights",-0.094
+"408",2021,144468,"Kaedin Robinson","Kaedin","Robinson","WR",89,2021,1,0,323,"UCF Knights",-0.009
+"409",2021,42151,"Brandon Bowling","Brandon","Bowling","WR",599,2016,6,5,329,"Utah State Aggies",0.257
+"410",2021,146591,"Agiye Hall","Agiye","Hall","WR",78,2021,1,0,103,"Alabama Crimson Tide",-0.002
+"411",2021,84150,"Nikko Remigio","Nikko","Remigio","WR",436,2018,4,3,130,"California Golden Bears",0.023
+"412",2021,97431,"Nolan Groulx","Nolan","Groulx","WR",5,2019,3,2,136,"Charlotte 49ers",-0.003
+"413",2021,98847,"Bub Means","Bub","Means","WR",389,2019,3,2,208,"Louisiana Tech Bulldogs",0.006
+"414",2021,40215,"Jared Sparks","Jared","Sparks","WR",470,2016,6,5,209,"Louisiana-Monroe Warhawks",-0.048
+"415",2021,78136,"Stephon Robinson Jr.","Stephon","Robinson Jr.","WR",606,2018,4,3,256,"Northwestern Wildcats",0.112
+"416",2021,145033,"Jordan Mosley","Jordan","Mosley","WR",36,2021,1,0,256,"Northwestern Wildcats",-0.016
+"417",2021,47610,"JJ Conner","JJ","Conner","WR",6,2015,7,6,259,"Ohio Bobcats",-0.018
+"418",2021,61793,"James Bostic","James","Bostic","WR",164,2017,5,4,259,"Ohio Bobcats",-0.068
+"419",2021,78199,"Isiah Cox","Isiah","Cox","WR",396,2018,4,3,259,"Ohio Bobcats",-0.04
+"420",2021,78200,"Jerome Buckner","Jerome","Buckner","WR",117,2018,4,3,259,"Ohio Bobcats",-0.003
+"421",2021,88315,"Sam Wiglusz","Sam","Wiglusz","WR",29,2018,4,3,260,"Ohio State Buckeyes",-0.003
+"422",2021,84117,"Michael Woods II","Michael","Woods II","WR",409,2018,4,3,261,"Oklahoma Sooners",0.048
+"423",2021,97791,"Jadon Haselwood","Jadon","Haselwood","WR",588,2019,3,2,261,"Oklahoma Sooners",-0.014
+"424",2021,144620,"Mario Williams","Mario","Williams","WR",317,2021,1,0,261,"Oklahoma Sooners",0.088
+"425",2021,84359,"Cornell Hendrick Jr.","Cornell","Hendrick Jr.","WR",10,2018,3,2,263,"Old Dominion Monarchs",-0.003
+"426",2021,84362,"Darius Savedge","Darius","Savedge","WR",95,2018,3,2,263,"Old Dominion Monarchs",0.019
+"427",2021,145344,"Ali Jennings III","Ali","Jennings III","WR",768,2019,3,2,263,"Old Dominion Monarchs",-0.004
+"428",2021,63709,"Spencer Curtis","Spencer","Curtis","WR",4,2017,4,3,264,"Oregon Ducks",0.005
+"429",2021,97270,"Mycah Pittman","Mycah","Pittman","WR",406,2019,3,2,264,"Oregon Ducks",-0.023
+"430",2021,52125,"Champ Flemings","Champ","Flemings","WR",288,2017,5,4,265,"Oregon State Beavers",-0.023
+"431",2021,61593,"Justin Weller","Justin","Weller","WR",9,2017,5,4,266,"Penn State Nittany Lions",-0.003
+"432",2021,61594,"Cameron Sullivan-Brown","Cameron","Sullivan-Brown","WR",190,2017,5,4,266,"Penn State Nittany Lions",-0.073
+"433",2021,38411,"Melquise Stovall","Melquise","Stovall","WR",173,2016,6,5,268,"Pittsburgh Panthers",-0.038
+"434",2021,77960,"Shocky Jacques-Louis","Shocky","Jacques-Louis","WR",511,2018,4,3,268,"Pittsburgh Panthers",-0.177
+"435",2021,72158,"Jake Bailey","Jake","Bailey","WR",505,2019,3,2,275,"Rice Owls",0.104
+"436",2021,75967,"August Pitre III","August","Pitre III","WR",413,2018,4,3,275,"Rice Owls",-0.017
+"437",2021,84332,"Cedric Patterson III","Cedric","Patterson III","WR",686,2018,4,3,275,"Rice Owls",-0.093
+"438",2021,101634,"Luke McCaffrey","Luke","McCaffrey","QB",230,2019,3,2,275,"Rice Owls",-0.223
+"439",2021,61646,"OrTre' Smith","OrTre'","Smith","WR",51,2017,5,4,289,"South Carolina Gamecocks",-0.006
+"440",2021,61509,"Austyn Chestnut","Austyn","Chestnut","WR",11,2017,5,4,108,"Appalachian State Mountaineers",-0.006
+"441",2021,41928,"Andrew Parchment","Andrew","Parchment","WR",378,2016,6,5,167,"Florida State Seminoles",-0.032
+"442",2021,124104,"Koy Moore","Koy","Moore","WR",92,2020,2,1,211,"LSU Tigers",0.001
+"443",2021,84342,"Braeden Heald","Braeden","Heald","WR",5,2018,4,3,256,"Northwestern Wildcats",-0.003
+"444",2021,146930,"Andison Coby","Andison","Coby","WR",42,2021,1,0,307,"Tennessee Volunteers",-0.006
+"445",2021,61271,"Matt Landers","Matt","Landers","WR",211,2017,5,4,316,"Toledo Rockets",0.128
+"446",2021,91115,"Isaiah Winstead","Isaiah","Winstead","WR",590,2018,3,2,316,"Toledo Rockets",-0.03
+"447",2021,98733,"Ezra Naylor II","Ezra","Naylor II","WR",654,2019,3,2,320,"Tulsa Golden Hurricane",-0.037
+"448",2021,98848,"Kenney Solomon","Kenney","Solomon","CB",11,2019,3,2,320,"Tulsa Golden Hurricane",0.003
+"449",2021,100886,"RaJae' Johnson","RaJae'","Johnson","WR",498,2019,3,2,321,"UAB Blazers",-0.052
+"450",2021,101706,"T.J. Jones","T.J.","Jones","WR",107,2019,3,2,321,"UAB Blazers",0.007
+"451",2021,40666,"Brandon Johnson","Brandon","Johnson","WR",761,2016,6,5,323,"UCF Knights",-0.018
+"452",2021,78085,"Jaylon Robinson","Jaylon","Robinson","WR",273,2018,4,3,323,"UCF Knights",0.038
+"453",2021,122902,"Jordan Johnson","Jordan","Johnson","WR",33,2020,2,1,323,"UCF Knights",-0.013
+"454",2021,144464,"Titus Mokiao-Atimalala","Titus","Mokiao-Atimalala","WR",178,2021,1,0,323,"UCF Knights",-0.014
+"455",2021,84465,"Chase Cota","Chase","Cota","WR",538,2018,4,3,324,"UCLA Bruins",-0.14
+"456",2021,99206,"Kam Brown","Kam","Brown","WR",549,2019,3,2,324,"UCLA Bruins",-0.102
+"457",2021,146387,"Keontez Lewis","Keontez","Lewis","WR",207,2021,1,0,324,"UCLA Bruins",-0.055
+"458",2021,64162,"Tre Caine","Tre","Caine","S",65,2017,5,4,325,"UNLV Rebels",-0.01
+"459",2021,101350,"Steve Jenkins","Steve","Jenkins","WR",609,2019,3,2,325,"UNLV Rebels",0.056
+"460",2021,101351,"Marcus Phillips Jr.","Marcus","Phillips Jr.","WR",316,2019,3,2,325,"UNLV Rebels",-0.128
+"461",2021,61216,"K.D. Nixon","K.D.","Nixon","WR",87,2017,5,4,326,"USC Trojans",-0.04
+"462",2021,77951,"Malcolm Epps","Malcolm","Epps","TE",268,2018,4,3,326,"USC Trojans",0.001
+"463",2021,97288,"Tahj Washington","Tahj","Washington","WR",717,2019,3,2,326,"USC Trojans",0.049
+"464",2021,146413,"Joseph Manjack IV","Joseph","Manjack IV","WR",144,2021,1,0,326,"USC Trojans",0.002
+"465",2021,84138,"Matthew Hill","Matthew","Hill","CB",579,2018,4,3,327,"USF Bulls",-0.221
+"466",2021,84300,"Demarcus Gregory","Demarcus","Gregory","WR",405,2018,4,3,327,"USF Bulls",-0.027
+"467",2021,99564,"Yusuf Terry","Yusuf","Terry","WR",199,2019,3,2,327,"USF Bulls",-0.007
+"468",2021,101125,"Bryce Miller","Bryce","Miller","WR",207,2019,3,2,327,"USF Bulls",-0.001
+"469",2021,39914,"Theo Howard","Theo","Howard","WR",346,2016,6,5,328,"Utah Utes",-0.006
+"470",2021,100635,"Kyrese Rowan","Kyrese","Rowan","WR",1,2019,3,2,328,"Utah Utes",-0.003
+"471",2021,84247,"Akeem Hayes","Akeem","Hayes","WR",39,2018,4,3,113,"Arkansas State Red Wolves",-0.005
+"472",2021,100894,"Jacob Cowing","Jacob","Cowing","WR",686,2019,3,2,330,"UTEP Miners",0.446
+"473",2021,61291,"Tre'von Bradley","Tre'von","Bradley","WR",186,2017,5,4,331,"UTSA Roadrunners",-0.07
+"474",2021,84497,"Cam Johnson","Cam","Johnson","WR",524,2018,4,3,333,"Vanderbilt Commodores",-0.134
+"475",2021,84499,"Amir Abdur-Rahman","Amir","Abdur-Rahman","WR",183,2018,4,3,333,"Vanderbilt Commodores",-0.006
+"476",2021,123767,"Iraken Armstead","Iraken","Armstead","QB",97,2020,2,1,335,"Virginia Cavaliers",-0.074
+"477",2021,151095,"Jacob Rodriguez","Jacob","Rodriguez","WR",184,2021,1,0,335,"Virginia Cavaliers",-0.128
+"478",2021,60558,"Connor Blumrick","Connor","Blumrick","QB",125,2017,5,4,337,"Virginia Tech Hokies",-0.082
+"479",2021,99693,"Tayvion Robinson","Tayvion","Robinson","WR",695,2019,3,2,337,"Virginia Tech Hokies",0.146
+"480",2021,61804,"Terrell Bynum","Terrell","Bynum","WR",435,2017,5,4,340,"Washington Huskies",-0.015
+"481",2021,101695,"Giles Jackson","Giles","Jackson","WR",160,2019,3,2,340,"Washington Huskies",0.131
+"482",2021,123153,"Ja'Lynn Polk","Ja'Lynn","Polk","WR",53,2020,2,1,340,"Washington Huskies",-0.002
+"483",2021,131910,"Sawyer Racanelli","Sawyer","Racanelli","WR",45,2020,2,1,340,"Washington Huskies",-0.007
+"484",2021,97215,"Lincoln Victor","Lincoln","Victor","WR",208,2019,3,2,341,"Washington State Cougars",0.07
+"485",2021,131934,"Joey Hobert","Joey","Hobert","WR",143,2020,2,1,341,"Washington State Cougars",0.037
+"486",2021,88318,"Isaiah Esdale","Isaiah","Esdale","WR",394,2018,4,3,343,"West Virginia Mountaineers",0.087
+"487",2021,54997,"DeAngelo Wilson","DeAngelo","Wilson","WR",32,2017,5,4,346,"Western Kentucky Hilltoppers",0.012
+"488",2021,61584,"Daewood Davis","Daewood","Davis","WR",713,2017,5,4,346,"Western Kentucky Hilltoppers",-0.099
+"489",2021,83459,"Beanie Bishop","Beanie","Bishop","CB",492,2018,4,3,346,"Western Kentucky Hilltoppers",0.31
+"490",2021,102597,"Jerreth Sterns","Jerreth","Sterns","WR",890,2018,4,3,346,"Western Kentucky Hilltoppers",0.63
+"491",2021,102599,"Ben Ratzlaff","Ben","Ratzlaff","WR",232,2019,3,2,346,"Western Kentucky Hilltoppers",-0.064
+"492",2021,121707,"Josh Sterns","Josh","Sterns","WR",172,2020,2,1,346,"Western Kentucky Hilltoppers",-0.086
+"493",2021,123470,"Mitchell Tinsley","Mitchell","Tinsley","WR",792,2020,2,1,346,"Western Kentucky Hilltoppers",0.382
+"494",2021,145536,"Kyle McNamara","Kyle","McNamara","WR",2,2021,1,0,346,"Western Kentucky Hilltoppers",-0.003
+"495",2021,61825,"Jaylen Hall","Jaylen","Hall","WR",774,2017,5,4,347,"Western Michigan Broncos",0.086
+"496",2021,63672,"Bryce Nunnelly","Bryce","Nunnelly","WR",391,2017,5,4,347,"Western Michigan Broncos",-0.105
+"497",2021,84520,"A.J. Abbott","A.J.","Abbott","WR",26,2018,4,3,349,"Wisconsin Badgers",-0.004
+"498",2021,97776,"Boobie Curry","Boobie","Curry","WR",252,2019,3,2,109,"Arizona Wildcats",-0.015
+"499",2021,84112,"Geordon Porter","Geordon","Porter","WR",27,2018,4,3,110,"Arizona State Sun Devils",-0.023
+"500",2021,100660,"Ricky Pearsall","Ricky","Pearsall","WR",660,2019,3,2,110,"Arizona State Sun Devils",0.029
+"501",2021,104182,"Adam Jones","Adam","Jones","WR",217,2019,3,2,113,"Arkansas State Red Wolves",0.017
+"502",2021,61173,"CJ Lewis","CJ","Lewis","WR",311,2017,5,4,121,"Boston College Eagles",-0.051
+"503",2021,84502,"Austin Osborne","Austin","Osborne","WR",634,2018,4,3,122,"Bowling Green Falcons",-0.096
+"504",2021,122338,"Fred Jackson","Fred","Jackson","WR",22,2020,2,1,141,"Coastal Carolina Chanticleers",0.063
+"505",2021,131671,"Chris Carpenter","Chris","Carpenter","WR",77,2020,2,1,143,"Colorado Buffaloes",-0.025
+"506",2021,131692,"Brenden Rice","Brenden","Rice","WR",373,2020,2,1,143,"Colorado Buffaloes",0.055
+"507",2021,61555,"Jafar Armstrong","Jafar","Armstrong","WR",3,2017,5,4,187,"Illinois Fighting Illini",-0.003
+"508",2021,84215,"Carlos Sandy","Carlos","Sandy","WR",191,2018,4,3,187,"Illinois Fighting Illini",-0.048
+"509",2021,55038,"Charlie Jones","Charlie","Jones","WR",469,2017,5,4,192,"Iowa Hawkeyes",0.3
+"510",2021,99555,"Ezeriah Anderson","Ezeriah","Anderson","WR",55,2019,3,2,193,"Iowa State Cyclones",0.009
+"511",2021,52300,"Fred Lloyd Jr.","Fred","Lloyd Jr.","WR",258,2017,5,4,209,"Louisiana-Monroe Warhawks",-0.046
+"512",2021,78211,"Boogie Knight","Boogie","Knight","WR",648,2018,4,3,209,"Louisiana-Monroe Warhawks",0.031
+"513",2021,61569,"Charleston Rambo","Charleston","Rambo","WR",763,2017,5,4,220,"Miami (FL) Hurricanes",0.197
+"514",2021,129638,"Ian Stewart","Ian","Stewart","WR",17,2020,2,1,223,"Michigan State Spartans",-0.003
+"515",2021,55244,"Brock Annexstad","Brock","Annexstad","WR",12,2017,5,4,225,"Minnesota Golden Gophers",0.001
+"516",2021,127298,"Brady Boyd","Brady","Boyd","WR",170,2021,1,0,225,"Minnesota Golden Gophers",-0.033
+"517",2021,138482,"Cole Harrity","Cole","Harrity","WR",448,2020,2,1,242,"New Mexico State Aggies",-0.096
+"518",2021,84378,"Daniel George","Daniel","George","WR",7,2018,4,3,266,"Penn State Nittany Lions",-0.004
+"519",2021,97867,"Broc Thompson","Broc","Thompson","WR",416,2019,3,2,273,"Purdue Boilermakers",0.01
+"520",2021,102544,"Brandon Sanders","Brandon","Sanders","WR",251,2019,3,2,278,"Rutgers Scarlet Knights",-0.056
+"521",2021,84245,"Allen Dailey Jr.","Allen","Dailey Jr.","WR",21,2018,4,3,288,"South Alabama Jaguars",-0.01
+"522",2021,84441,"Caleb Chapman","Caleb","Chapman","WR",202,2018,4,3,312,"Texas A&M Aggies",0.005
+"523",2021,61133,"B.J. Casteel","B.J.","Casteel","WR",555,2017,5,4,109,"Arizona Wildcats",-0.187
+"524",2021,63661,"Kendall Catalon","Kendall","Catalon","WR",48,2017,5,4,111,"Arkansas Razorbacks",-0.003
+"525",2021,99222,"John David White","John David","White","WR",29,2019,3,2,111,"Arkansas Razorbacks",0
+"526",2021,57246,"Johnnie Lang","Johnnie","Lang","HB",264,2017,5,4,113,"Arkansas State Red Wolves",-0.035
+"527",2021,101335,"Khyheem Waleed","Khyheem","Waleed","WR",38,2019,3,2,113,"Arkansas State Red Wolves",-0.013
+"528",2021,121539,"Corey Rucker","Corey","Rucker","WR",718,2020,2,1,113,"Arkansas State Red Wolves",-0.072
+"529",2021,126530,"Karate Brenson","Karate","Brenson","WR",36,2021,1,0,117,"Ball State Cardinals",-0.004
+"530",2021,40152,"Jordan Jones","Jordan","Jones","WR",68,2016,6,5,138,"Cincinnati Bearcats",-0.01
+"531",2021,83810,"Dimitri Stanley","Dimitri","Stanley","WR",263,2018,4,3,143,"Colorado Buffaloes",-0.076
+"532",2021,100644,"La'Vontae Shenault","La'Vontae","Shenault","WR",101,2019,3,2,143,"Colorado Buffaloes",-0.003
+"533",2021,78069,"Heron Maurisseau","Heron","Maurisseau","WR",182,2018,3,2,146,"Connecticut Huskies",-0.008
+"534",2021,77996,"Dennis Smith","Dennis","Smith","WR",41,2018,4,3,160,"Eastern Michigan Eagles",0
+"535",2021,145756,"Latrell Fordham","Latrell","Fordham","WR",100,2021,1,0,160,"Eastern Michigan Eagles",-0.006
+"536",2021,84176,"Jacob Copeland","Jacob","Copeland","WR",610,2018,4,3,163,"Florida Gators",-0.01
+"537",2021,77955,"D'Marcus Adams","D'Marcus","Adams","WR",34,2018,4,3,165,"Florida Atlantic Owls",0.027
+"538",2021,86854,"Johnny Ford","Johnny","Ford","HB",304,2018,4,3,165,"Florida Atlantic Owls",0.149
+"539",2021,84191,"Jaylen Johnson","Jaylen","Johnson","WR",146,2018,4,3,173,"Georgia Bulldogs",-0.026
+"540",2021,77742,"Amare Jones","Amare","Jones","HB",371,2018,4,3,174,"Georgia Southern Eagles",0.121
+"541",2021,55196,"Chris Bacon","Chris","Bacon","S",206,2017,5,4,175,"Georgia State Panthers",-0.018
+"542",2021,84196,"Cornelius McCoy","Cornelius","McCoy","WR",229,2018,4,3,175,"Georgia State Panthers",-0.017
+"543",2021,123740,"Ja'Cyais Credle","Ja'Cyais","Credle","WR",517,2020,2,1,175,"Georgia State Panthers",0.033
+"544",2021,98750,"Jaylen Erwin","Jaylen","Erwin","WR",315,2019,3,2,182,"Houston Cougars",-0.083
+"545",2021,84220,"Donny Navarro III","Donny","Navarro III","WR",406,2018,4,3,187,"Illinois Fighting Illini",-0.151
+"546",2021,101711,"Dalevon Campbell","Dalevon","Campbell","WR",57,2019,3,2,187,"Illinois Fighting Illini",0.002
+"547",2021,84226,"Tyrone Tracy","Tyrone","Tracy","WR",464,2018,4,3,192,"Iowa Hawkeyes",-0.158
+"548",2021,101738,"Desmond Hutson","Desmond","Hutson","WR",17,2019,3,2,192,"Iowa Hawkeyes",-0.004
+"549",2021,78128,"Joseph Scates","Joseph","Scates","WR",131,2018,4,3,193,"Iowa State Cyclones",0.013
+"550",2021,78159,"Javaughn Williams","Javaughn","Williams","WR",63,2018,4,3,201,"Kent State Golden Flashes",-0.003
+"551",2021,130513,"James Burns","James","Burns","WR",69,2020,2,1,221,"Miami (OH) RedHawks",-0.008
+"552",2021,64309,"Daylen Baldwin","Daylen","Baldwin","WR",288,2017,5,4,222,"Michigan Wolverines",-0.054
+"553",2021,129648,"Doug Emilien","Doug","Emilien","WR",13,2020,2,1,225,"Minnesota Golden Gophers",-0.005
+"554",2021,97602,"John Rhys Plumlee","John","Rhys Plumlee","WR",297,2019,3,2,226,"Mississippi Rebels",0.009
+"555",2021,124207,"JJ Hester","JJ","Hester","WR",187,2020,2,1,229,"Missouri Tigers",-0.08
+"556",2021,124211,"Ja'Mori Maclin","Ja'Mori","Maclin","WR",3,2020,2,1,229,"Missouri Tigers",-0.003
+"557",2021,129707,"Will Nixon","Will","Nixon","WR",26,2020,2,1,238,"Nebraska Cornhuskers",-0.002
+"558",2021,84317,"Harry Ballard III","Harry","Ballard III","WR",107,2018,4,3,239,"Nevada Wolf Pack",-0.008
+"559",2021,84394,"BJ Busbee","BJ","Busbee","WR",390,2018,4,3,284,"San Diego State Aztecs",-0.082
+"560",2021,109834,"E.J. Jenkins","E.J.","Jenkins","WR",291,2019,2,1,289,"South Carolina Gamecocks",-0.054
+"561",2021,147261,"Kyran Griffin-Isom","Kyran","Griffin-Isom","WR",59,2021,1,0,318,"Troy Trojans",-0.005
+"562",2021,97181,"Dayton Wade","Dayton","Wade","WR",16,2019,3,2,346,"Western Kentucky Hilltoppers",-0.004
+"563",2021,102956,"Kendall Abdur-Rahman","Kendall","Abdur-Rahman","WR",29,2019,3,2,346,"Western Kentucky Hilltoppers",-0.006
+"564",2021,100275,"Michael Mathison","Michael","Mathison","WR",548,2019,3,2,102,"Akron Zips",0.111
+"565",2021,130313,"George Qualls Jr.","George","Qualls Jr.","WR",310,2020,2,1,102,"Akron Zips",-0.047
+"566",2021,123904,"Javon Baker","Javon","Baker","WR",80,2020,2,1,103,"Alabama Crimson Tide",0.021
+"567",2021,97785,"Jalen Johnson","Jalen","Johnson","WR",105,2019,3,2,109,"Arizona Wildcats",-0.032
+"568",2021,76366,"Johnny Wilson","Johnny","Wilson","WR",206,2020,2,1,110,"Arizona State Sun Devils",-0.007
+"569",2021,78041,"Jayshon Jackson","Jayshon","Jackson","WR",601,2018,4,3,117,"Ball State Cardinals",0.069
+"570",2021,98023,"Jalen McGaughy","Jalen","McGaughy","WR",102,2019,3,2,117,"Ball State Cardinals",-0.068
+"571",2021,84141,"Maclaine Griffin","Maclaine","Griffin","WR",28,2018,4,3,120,"Boise State Broncos",-0.003
+"572",2021,77971,"Jehlani Galloway","Jehlani","Galloway","WR",90,2018,4,3,121,"Boston College Eagles",-0.053
+"573",2021,61237,"Quian Williams","Quian","Williams","WR",832,2017,5,4,126,"Buffalo Bulls",0.065
+"574",2021,43380,"Samson Nacua","Samson","Nacua","WR",387,2016,6,5,128,"BYU Cougars",0.002
+"575",2021,78784,"Levar Gumms","Levar","Gumms","WR",108,2018,4,3,134,"Central Michigan Chippewas",-0.018
+"576",2021,98740,"Jordan Kress","Jordan","Kress","WR",145,2019,3,2,144,"Colorado State Rams",-0.025
+"577",2021,77998,"Jarett Garner","Jarett","Garner","WR",295,2018,4,3,154,"Duke Blue Devils",-0.037
+"578",2021,78022,"Derion Kendrick","Derion","Kendrick","CB",787,2018,4,3,173,"Georgia Bulldogs",0.382
+"579",2021,124017,"Jermaine Burton","Jermaine","Burton","WR",388,2020,2,1,173,"Georgia Bulldogs",0.096
+"580",2021,75945,"Nick Mardner","Nick","Mardner","WR",579,2018,4,3,180,"Hawaii Warriors",0.098
+"581",2021,61289,"Jeremy Singleton","Jeremy","Singleton","WR",756,2017,5,4,182,"Houston Cougars",-0.15
+"582",2021,61692,"Nykeim Johnson","Nykeim","Johnson","WR",648,2017,5,4,201,"Kent State Golden Flashes",0.189
+"583",2021,100230,"Isaiah Wooden","Isaiah","Wooden","WR",6,2019,3,2,201,"Kent State Golden Flashes",-0.003
+"584",2021,78108,"John Stephens Jr.","John","Stephens Jr.","WR",223,2018,4,3,207,"Louisiana Ragin' Cajuns",-0.015
+"585",2021,87665,"Michael Jefferson","Michael","Jefferson","WR",312,2018,4,3,207,"Louisiana Ragin' Cajuns",0.103
+"586",2021,75926,"Samuel Emilus","Samuel","Emilus","WR",262,2018,4,3,208,"Louisiana Tech Bulldogs",0.03
+"587",2021,122730,"Jordan Watkins","Jordan","Watkins","WR",565,2020,2,1,210,"Louisville Cardinals",0.075
+"588",2021,124085,"Alex Adams","Alex","Adams","WR",17,2020,2,1,211,"LSU Tigers",-0.003
+"589",2021,129524,"DeaJaun McDougle","DeaJaun","McDougle","WR",21,2020,2,1,215,"Maryland Terrapins",-0.003
+"590",2021,129688,"Marcus Fleming","Marcus","Fleming","WR",193,2020,2,1,215,"Maryland Terrapins",-0.059
+"591",2021,41998,"Eric Collins","Eric","Collins","WR",278,2016,6,5,216,"Massachusetts Minutemen",-0.053
+"592",2021,122707,"Christian Fitzpatrick","Christian","Fitzpatrick","WR",81,2020,2,1,223,"Michigan State Spartans",-0.021
+"593",2021,97800,"Jadon Jackson","Jadon","Jackson","WR",207,2019,3,2,226,"Mississippi Rebels",-0.025
+"594",2021,61501,"Elijah Cooks","Elijah","Cooks","WR",149,2017,5,4,239,"Nevada Wolf Pack",-0.002
+"595",2021,123000,"Jordan Addison","Jordan","Addison","WR",834,2020,2,1,268,"Pittsburgh Panthers",0.458
+"596",2021,131606,"LV Bunkley-Shelton","LV","Bunkley-Shelton","WR",417,2020,2,1,110,"Arizona State Sun Devils",-0.011
+"597",2021,146279,"Tommi Hill","Tommi","Hill","CB",59,2021,1,0,110,"Arizona State Sun Devils",-0.008
+"598",2021,78109,"Te'Vailance Hunt","Te'Vailance","Hunt","WR",571,2018,4,3,113,"Arkansas State Red Wolves",-0.04
+"599",2021,38547,"Demetris Robertson","Demetris","Robertson","WR",582,2016,6,5,115,"Auburn Tigers",-0.092
+"600",2021,40782,"Kobay White","Kobay","White","WR",62,2016,6,5,121,"Boston College Eagles",-0.008
+"601",2021,76718,"Ezechiel Tieide","Ezechiel","Tieide","WR",3,2018,4,3,121,"Boston College Eagles",-0.003
+"602",2021,55283,"Keith Pearson","Keith","Pearson","WR",187,2017,4,3,136,"Charlotte 49ers",0.113
+"603",2021,84180,"Shemar Thornton","Shemar","Thornton","WR",98,2018,4,3,166,"Florida International Golden Panthers",-0.009
+"604",2021,77956,"Jordan Young","Jordan","Young","WR",49,2018,4,3,167,"Florida State Seminoles",0.014
+"605",2021,84197,"Sam Pinckney","Sam","Pinckney","WR",554,2018,4,3,175,"Georgia State Panthers",0.021
+"606",2021,40668,"Seth Green","Seth","Green","TE",355,2016,6,5,182,"Houston Cougars",-0.004
+"607",2021,78146,"KeSean Carter","KeSean","Carter","WR",377,2018,4,3,182,"Houston Cougars",0.002
+"608",2021,61328,"Tarique Milton","Tarique","Milton","WR",166,2017,5,4,193,"Iowa State Cyclones",0.032
+"609",2021,61330,"Parker Rickert","Parker","Rickert","WR",5,2017,5,4,193,"Iowa State Cyclones",-0.003
+"610",2021,97287,"Trevor Wilson","Trevor","Wilson","WR",390,2019,3,2,198,"Kansas Jayhawks",-0.053
+"611",2021,122572,"Kyler Pearson","Kyler","Pearson","WR",13,2020,2,1,198,"Kansas Jayhawks",-0.005
+"612",2021,61394,"Justin Marshall","Justin","Marshall","WR",504,2017,5,4,210,"Louisville Cardinals",-0.012
+"613",2021,84285,"Brian Cobbs","Brian","Cobbs","WR",396,2018,4,3,215,"Maryland Terrapins",-0.053
+"614",2021,129503,"Nick DeGennaro","Nick","DeGennaro","WR",22,2020,2,1,215,"Maryland Terrapins",-0.003
+"615",2021,78051,"Jeremy Tate Jr","Jeremy","Tate Jr","WR",1,2018,4,3,218,"Memphis Tigers",-0.003
+"616",2021,101745,"Julian Barnett","Julian","Barnett","CB",80,2019,3,2,218,"Memphis Tigers",-0.013
+"617",2021,78016,"Dee Wiggins","Dee","Wiggins","WR",69,2018,4,3,220,"Miami (FL) Hurricanes",-0.004
+"618",2021,97095,"Micaleous Elder","Micaleous","Elder","WR",14,2019,3,2,224,"Middle Tennessee Blue Raiders",-0.006
+"619",2021,84346,"Lawrence Keys III","Lawrence","Keys III","WR",5,2018,4,3,258,"Notre Dame Fighting Irish",-0.003
+"620",2021,144621,"Cody Jackson","Cody","Jackson","WR",50,2021,1,0,261,"Oklahoma Sooners",-0.002
+"621",2021,61272,"Trey Blount","Trey","Blount","WR",17,2017,5,4,263,"Old Dominion Monarchs",-0.007
+"622",2021,101352,"Andre Crump Jr.","Andre","Crump Jr.","WR",4,2019,3,2,285,"San Jose State Spartans",-0.003
+"623",2021,77970,"Taj Harris","Taj","Harris","WR",169,2018,4,3,304,"Syracuse Orange",-0.003
+"624",2021,124269,"Dee Beckwith","Dee","Beckwith","HB",3,2020,2,1,307,"Tennessee Volunteers",-0.003
+"625",2021,61540,"Dennis Robinson","Dennis","Robinson","WR",17,2017,5,4,314,"Texas State Bobcats",-0.007
+"626",2021,60416,"Nick Ast","Nick","Ast","WR",96,2017,5,4,330,"UTEP Miners",-0.023
+"627",2021,78030,"Sean Ryan","Sean","Ryan","WR",444,2018,4,3,343,"West Virginia Mountaineers",0.044
+"628",2021,61777,"Bryan Thompson","Bryan","Thompson","WR",423,2017,5,4,110,"Arizona State Sun Devils",-0.115
+"629",2021,77953,"Warren Thompson","Warren","Thompson","WR",469,2018,4,3,111,"Arkansas Razorbacks",-0.043
+"630",2021,158639,"Ethon Williams","Ethon","Williams","WR",3,2019,3,2,121,"Boston College Eagles",-0.003
+"631",2021,100632,"Puka Nacua","Puka","Nacua","WR",437,2019,3,2,128,"BYU Cougars",0.197
+"632",2021,123555,"Marquez Bell","Marquez","Bell","WR",8,2020,2,1,138,"Cincinnati Bearcats",-0.003
+"633",2021,146327,"Trustin Oliver","Trustin","Oliver","S",18,2021,1,0,143,"Colorado Buffaloes",-0.007
+"634",2021,165155,"Rayonta Rose","Rayonta","Rose","WR",1,2020,2,1,156,"East Carolina Pirates",-0.003
+"635",2021,52319,"Randall St. Felix","Randall","St. Felix","WR",307,2017,5,4,166,"Florida International Golden Panthers",-0.038
+"636",2021,143894,"Parker Self","Parker","Self","WR",4,2021,1,0,167,"Florida State Seminoles",-0.003
+"637",2021,61806,"Ty Jones","Ty","Jones","WR",372,2017,5,4,169,"Fresno State Bulldogs",-0.05
+"638",2021,97169,"Rodney Wright III","Rodney","Wright III","WR",12,2019,3,2,169,"Fresno State Bulldogs",-0.003
+"639",2021,61544,"Kyric McGowan","Kyric","McGowan","WR",557,2017,5,4,176,"Georgia Tech Yellow Jackets",-0.04
+"640",2021,146058,"Tru Edwards","Tru","Edwards","WR",110,2021,1,0,180,"Hawaii Warriors",-0.035
+"641",2021,101111,"Ke'Andre Street","Ke'Andre","Street","WR",18,2019,3,2,182,"Houston Cougars",-0.023
+"642",2021,163991,"Darius Edmonds","Darius","Edmonds","WR",3,2020,2,1,182,"Houston Cougars",-0.003
+"643",2021,129427,"Deuce Spann","Deuce","Spann","WR",61,2020,2,1,187,"Illinois Fighting Illini",0.031
+"644",2021,84225,"Jacolby Hewitt","Jacolby","Hewitt","WR",208,2018,4,3,190,"Indiana Hoosiers",-0.087
+"645",2021,122560,"Tristan Golightly","Tristan","Golightly","WR",77,2020,2,1,198,"Kansas Jayhawks",-0.028
+"646",2021,61494,"Kade Warner","Kade","Warner","WR",278,2017,5,4,199,"Kansas State Wildcats",0.009
+"647",2021,144588,"Tyrone Howell","Tyrone","Howell","WR",253,2021,1,0,199,"Kansas State Wildcats",-0.003
+"648",2021,61360,"Isaiah Epps","Isaiah","Epps","WR",322,2017,5,4,202,"Kentucky Wildcats",-0.027
+"649",2021,101735,"Wan'Dale Robinson","Wan'Dale","Robinson","WR",726,2019,3,2,202,"Kentucky Wildcats",0.434
+"650",2021,61513,"Beau Corrales","Beau","Corrales","WR",5,2017,5,4,245,"North Carolina Tar Heels",-0.003
+"651",2021,102929,"Kaylon Geiger","Kaylon","Geiger","WR",616,2019,3,2,315,"Texas Tech Red Raiders",-0.026
+"652",2022,144468,"Kaedin Robinson","Kaedin","Robinson","WR",396,2021,2,1,108,"Appalachian State Mountaineers",-0.003
+"653",2022,77953,"Warren Thompson","Warren","Thompson","WR",361,2018,5,4,111,"Arkansas Razorbacks",-0.043
+"654",2022,78109,"Te'Vailance Hunt","Te'Vailance","Hunt","WR",317,2018,5,4,113,"Arkansas State Red Wolves",-0.061
+"655",2022,84499,"Amir Abdur-Rahman","Amir","Abdur-Rahman","WR",344,2018,5,4,117,"Ball State Cardinals",-0.027
+"656",2022,61394,"Justin Marshall","Justin","Marshall","WR",800,2017,6,5,126,"Buffalo Bulls",0.098
+"657",2022,100632,"Puka Nacua","Puka","Nacua","WR",350,2019,4,3,128,"BYU Cougars",0.16
+"658",2022,128232,"Tory Horton","Tory","Horton","WR",692,2020,3,2,144,"Colorado State Rams",0.184
+"659",2022,77956,"Jordan Young","Jordan","Young","WR",140,2018,5,4,165,"Florida Atlantic Owls",-0.086
+"660",2022,76366,"Johnny Wilson","Johnny","Wilson","WR",540,2020,3,2,167,"Florida State Seminoles",0.213
+"661",2022,109671,"Mike Roussos","Mike","Roussos","WR",13,2019,3,2,167,"Florida State Seminoles",-0.001
+"662",2022,61289,"Jeremy Singleton","Jeremy","Singleton","WR",709,2017,6,5,174,"Georgia Southern Eagles",0.068
+"663",2022,78741,"Jordan Murray","Jordan","Murray","TE",361,2018,5,4,180,"Hawaii Warriors",-0.128
+"664",2022,83810,"Dimitri Stanley","Dimitri","Stanley","WR",532,2018,5,4,193,"Iowa State Cyclones",-0.093
+"665",2022,78145,"Kevin Terry","Kevin","Terry","WR",132,2018,5,4,198,"Kansas Jayhawks",0.006
+"666",2022,97287,"Trevor Wilson","Trevor","Wilson","WR",43,2019,4,3,198,"Kansas Jayhawks",-0.022
+"667",2022,129648,"Doug Emilien","Doug","Emilien","WR",110,2020,3,2,198,"Kansas Jayhawks",-0.032
+"668",2022,101696,"George Johnson III","George","Johnson III","WR",661,2019,4,3,216,"Massachusetts Minutemen",-0.118
+"669",2022,104919,"Isaac Ross","Isaac","Ross","WR",333,2019,4,3,216,"Massachusetts Minutemen",-0.119
+"670",2022,78128,"Joseph Scates","Joseph","Scates","WR",362,2018,5,4,218,"Memphis Tigers",-0.119
+"671",2022,89497,"Izaiah Gathings","Izaiah","Gathings","WR",646,2018,5,4,224,"Middle Tennessee Blue Raiders",-0.085
+"672",2022,61807,"Jamire Calvin","Jamire","Calvin","WR",250,2017,6,5,227,"Mississippi State Bulldogs",-0.095
+"673",2022,145033,"Jordan Mosley","Jordan","Mosley","WR",20,2021,2,1,227,"Mississippi State Bulldogs",0.004
+"674",2022,61328,"Tarique Milton","Tarique","Milton","WR",155,2017,6,5,311,"Texas Longhorns",-0.064
+"675",2022,40901,"Rontavius Groves","Rontavius","Groves","WR",332,2016,7,6,314,"Texas State Bobcats",-0.143
+"676",2022,61540,"Dennis Robinson","Dennis","Robinson","WR",73,2017,6,5,314,"Texas State Bobcats",-0.04
+"677",2022,100635,"Kyrese Rowan","Kyrese","Rowan","WR",7,2019,4,3,329,"Utah State Aggies",-0.004
+"678",2022,124017,"Jermaine Burton","Jermaine","Burton","WR",575,2020,3,2,103,"Alabama Crimson Tide",0.073
+"679",2022,97791,"Jadon Haselwood","Jadon","Haselwood","WR",658,2019,4,3,111,"Arkansas Razorbacks",0.023
+"680",2022,97422,"Dino Tomlin","Dino","Tomlin","WR",171,2019,4,3,121,"Boston College Eagles",-0.003
+"681",2022,84502,"Austin Osborne","Austin","Osborne","WR",60,2018,5,4,122,"Bowling Green Falcons",-0.003
+"682",2022,77998,"Jarett Garner","Jarett","Garner","WR",24,2018,5,4,156,"East Carolina Pirates",-0.009
+"683",2022,86854,"Johnny Ford","Johnny","Ford","HB",112,2018,5,4,165,"Florida Atlantic Owls",-0.022
+"684",2022,129427,"Deuce Spann","Deuce","Spann","WR",255,2020,3,2,167,"Florida State Seminoles",-0.047
+"685",2022,61342,"Ezrah Archie","Ezrah","Archie","WR",167,2017,6,5,174,"Georgia Southern Eagles",-0.015
+"686",2022,40336,"Jonah Morris","Jonah","Morris","WR",82,2016,7,6,187,"Illinois Fighting Illini",-0.001
+"687",2022,78211,"Boogie Knight","Boogie","Knight","WR",342,2018,5,4,209,"Louisiana-Monroe Warhawks",-0.303
+"688",2022,99209,"Dylan Wright","Dylan","Wright","WR",318,2019,4,3,225,"Minnesota Golden Gophers",-0.008
+"689",2022,84314,"Jalen Knox","Jalen","Knox","WR",29,2018,5,4,226,"Mississippi Rebels",0.01
+"690",2022,123695,"Bryce Childress","Bryce","Childress","WR",181,2020,2,1,242,"New Mexico State Aggies",-0.065
+"691",2022,145344,"Ali Jennings","Ali","Jennings","WR",507,2019,4,3,263,"Old Dominion Monarchs",0.191
+"692",2022,55038,"Charlie Jones","Charlie","Jones","WR",834,2017,6,5,273,"Purdue Boilermakers",0.323
+"693",2022,146842,"Teddy Knox","Teddy","Knox","WR",53,2021,2,1,287,"SMU Mustangs",-0.043
+"694",2022,104838,"Jeremiah Webb","Jeremiah","Webb","WR",3,2019,4,3,288,"South Alabama Jaguars",-0.002
+"695",2022,155624,"Jamaal Pritchett","Jamaal","Pritchett","WR",99,2021,2,1,288,"South Alabama Jaguars",-0.008
+"696",2022,97164,"Ahmarean Brown","Ahmarean","Brown","WR",402,2019,4,3,289,"South Carolina Gamecocks",-0.068
+"697",2022,41966,"Devaughn Cooper","Devaughn","Cooper","WR",487,2016,7,6,304,"Syracuse Orange",0.007
+"698",2022,127298,"Brady Boyd","Brady","Boyd","WR",326,2021,2,1,315,"Texas Tech Red Raiders",-0.034
+"699",2022,100886,"RaJae' Johnson","RaJae'","Johnson","WR",584,2019,4,3,318,"Troy Trojans",0.148
+"700",2022,91447,"Dexter Boykin","Dexter","Boykin","WR",310,2018,5,4,321,"UAB Blazers",-0.032
+"701",2022,101706,"T.J. Jones","T.J.","Jones","WR",175,2019,4,3,321,"UAB Blazers",-0.007
+"702",2022,97602,"John Rhys Plumlee","John","Rhys Plumlee","QB",834,2019,4,3,323,"UCF Knights",0.071
+"703",2022,77997,"Jake Bobo","Jake","Bobo","WR",726,2018,5,4,324,"UCLA Bruins",0.271
+"704",2022,84285,"Brian Cobbs","Brian","Cobbs","WR",925,2018,5,4,329,"Utah State Aggies",0.184
+"705",2022,60558,"Connor Blumrick","Connor","Blumrick","WR",193,2017,6,5,337,"Virginia Tech Hokies",-0.042
+"706",2022,61705,"Jadan Blue","Jadan","Blue","WR",289,2017,6,5,337,"Virginia Tech Hokies",-0.119
+"707",2022,101695,"Giles Jackson","Giles","Jackson","WR",275,2019,4,3,340,"Washington Huskies",0.06
+"708",2022,146387,"Keontez Lewis","Keontez","Lewis","WR",409,2021,2,1,349,"Wisconsin Badgers",-0.071
+"709",2022,124085,"Alex Adams","Alex","Adams","WR",683,2020,3,2,102,"Akron Zips",-0.023
+"710",2022,104182,"Adam Jones","Adam","Jones","WR",329,2019,4,3,113,"Arkansas State Red Wolves",-0.042
+"711",2022,97431,"Nolan Groulx","Nolan","Groulx","CB",313,2019,4,3,136,"Charlotte 49ers",-0.083
+"712",2022,74267,"Melquan Stovall","Melquan","Stovall","WR",168,2019,4,3,144,"Colorado State Rams",-0.016
+"713",2022,123740,"Ja'Cyais Credle","Ja'Cyais","Credle","WR",556,2020,3,2,175,"Georgia State Panthers",0.033
+"714",2022,78146,"KeSean Carter","KeSean","Carter","WR",482,2018,5,4,182,"Houston Cougars",0.027
+"715",2022,124269,"Dee Beckwith","Dee","Beckwith","HB",6,2020,3,2,202,"Kentucky Wildcats",-0.001
+"716",2022,87665,"Michael Jefferson","Michael","Jefferson","WR",511,2018,5,4,207,"Louisiana Ragin' Cajuns",0.147
+"717",2022,121645,"Micah Manning","Micah","Manning","WR",10,2020,2,1,229,"Missouri Tigers",-0.003
+"718",2022,144350,"Regis Velez","Regis","Velez","WR",8,2020,3,2,237,"Navy Midshipmen",-0.002
+"719",2022,84441,"Caleb Chapman","Caleb","Chapman","WR",26,2018,5,4,264,"Oregon Ducks",-0.005
+"720",2022,84332,"Cedric Patterson III","Cedric","Patterson III","WR",13,2018,5,4,275,"Rice Owls",-0.003
+"721",2022,61513,"Beau Corrales","Beau","Corrales","WR",73,2017,6,5,287,"SMU Mustangs",-0.005
+"722",2022,138470,"Antwane Wells Jr.","Antwane","Wells Jr.","WR",616,2020,3,2,289,"South Carolina Gamecocks",0.078
+"723",2022,61447,"C.J. Hayes","C.J.","Hayes","WR",17,2017,6,5,304,"Syracuse Orange",-0.015
+"724",2022,84010,"Geor'Quarius Spivey","Geor'Quarius","Spivey","WR",252,2018,5,4,305,"TCU Horned Frogs",-0.023
+"725",2022,84380,"Amad Anderson Jr.","Amad","Anderson Jr.","WR",329,2018,5,4,306,"Temple Owls",0.006
+"726",2022,146591,"Agiye Hall","Agiye","Hall","WR",17,2021,2,1,311,"Texas Longhorns",-0.004
+"727",2022,122548,"Jordan Brown","Jordan","Brown","WR",39,2020,3,2,315,"Texas Tech Red Raiders",0.023
+"728",2022,76718,"Ezechiel Tieide","Ezechiel","Tieide","WR",15,2018,5,4,316,"Toledo Rockets",-0.005
+"729",2022,123904,"Javon Baker","Javon","Baker","WR",816,2020,3,2,323,"UCF Knights",0.068
+"730",2022,123989,"Kobe Hudson","Kobe","Hudson","WR",604,2020,3,2,323,"UCF Knights",0.125
+"731",2022,61631,"Tyler Page","Tyler","Page","WR",145,2017,5,4,108,"Appalachian State Mountaineers",-0.106
+"732",2022,61271,"Matt Landers","Matt","Landers","WR",836,2017,6,5,111,"Arkansas Razorbacks",0.062
+"733",2022,101335,"Khyheem Waleed","Khyheem","Waleed","WR",142,2019,4,3,113,"Arkansas State Red Wolves",-0.055
+"734",2022,124104,"Koy Moore","Koy","Moore","WR",521,2020,3,2,115,"Auburn Tigers",-0.168
+"735",2022,97776,"Boobie Curry","Boobie","Curry","WR",108,2019,4,3,126,"Buffalo Bulls",0.008
+"736",2022,98023,"Jalen McGaughy","Jalen","McGaughy","WR",374,2019,4,3,134,"Central Michigan Chippewas",-0.067
+"737",2022,75945,"Nick Mardner","Nick","Mardner","WR",268,2018,5,4,138,"Cincinnati Bearcats",0.015
+"738",2022,84197,"Sam Pinckney","Sam","Pinckney","WR",769,2018,5,4,141,"Coastal Carolina Chanticleers",0.046
+"739",2022,61166,"R.J. Sneed II","R.J.","Sneed II","WR",377,2017,6,5,143,"Colorado Buffaloes",-0.162
+"740",2022,84150,"Nikko Remigio","Nikko","Remigio","WR",526,2018,5,4,169,"Fresno State Bulldogs",0.472
+"741",2022,142605,"Lawson Bachelder","Lawson","Bachelder","WR",1,2020,3,2,174,"Georgia Southern Eagles",-0.002
+"742",2022,63706,"Kody Case","Kody","Case","WR",10,2017,6,5,187,"Illinois Fighting Illini",-0.02
+"743",2022,97779,"Lance LeGendre","Lance","LeGendre","QB",131,2019,4,3,207,"Louisiana Ragin' Cajuns",0.04
+"744",2022,144588,"Tyrone Howell","Tyrone","Howell","WR",537,2021,2,1,209,"Louisiana-Monroe Warhawks",0.197
+"745",2022,129807,"Maliq Carr","Maliq","Carr","TE",321,2020,3,2,223,"Michigan State Spartans",0.005
+"746",2022,99527,"Marcus Washington","Marcus","Washington","WR",519,2019,4,3,238,"Nebraska Cornhuskers",0.042
+"747",2022,84112,"Geordon Porter","Geordon","Porter","WR",290,2018,5,4,241,"New Mexico Lobos",-0.003
+"748",2022,84286,"Darryl Jones","Darryl","Jones","WR",505,2018,5,4,248,"North Carolina State Wolfpack",-0.089
+"749",2022,84226,"Tyrone Tracy","Tyrone","Tracy","WR",298,2018,5,4,273,"Purdue Boilermakers",-0.057
+"750",2022,97867,"Broc Thompson","Broc","Thompson","WR",54,2019,4,3,273,"Purdue Boilermakers",-0.005
+"751",2022,74298,"Justin Lockhart","Justin","Lockhart","WR",596,2019,4,3,285,"San Jose State Spartans",-0.007
+"752",2022,77955,"D'Marcus Adams","D'Marcus","Adams","WR",135,2018,5,4,304,"Syracuse Orange",0.049
+"753",2022,99206,"Kam Brown","Kam","Brown","WR",515,2019,4,3,324,"UCLA Bruins",-0.004
+"754",2022,97288,"Tahj Washington","Tahj","Washington","WR",536,2019,4,3,326,"USC Trojans",0.198
+"755",2022,61500,"Daiyan Henley","Daiyan","Henley","LB",668,2017,6,5,341,"Washington State Cougars",0.07
+"756",2022,84497,"Cam Johnson","Cam","Johnson","WR",131,2018,5,4,110,"Arizona State Sun Devils",-0.039
+"757",2022,111283,"Charles Hall","Charles","Hall","WR",146,2019,3,2,110,"Arizona State Sun Devils",0.014
+"758",2022,52125,"Champ Flemings","Champ","Flemings","WR",390,2017,6,5,113,"Arkansas State Red Wolves",0.068
+"759",2022,122232,"Dazalin Worsham","Dazalin","Worsham","WR",52,2020,3,2,115,"Auburn Tigers",-0.013
+"760",2022,138482,"Cole Harrity","Cole","Harrity","WR",278,2020,3,2,126,"Buffalo Bulls",-0.042
+"761",2022,61413,"Carlos Carriere","Carlos","Carriere","WR",563,2017,6,5,134,"Central Michigan Chippewas",-0.085
+"762",2022,158639,"Ethon Williams","Ethon","Williams","WR",76,2019,4,3,146,"Connecticut Huskies",-0.013
+"763",2022,88707,"Caleb Snead","Caleb","Snead","WR",336,2018,5,4,206,"Liberty Flames",-0.076
+"764",2022,78016,"Dee Wiggins","Dee","Wiggins","WR",80,2018,5,4,210,"Louisville Cardinals",-0.002
+"765",2022,61594,"Cameron Sullivan-Brown","Cameron","Sullivan-Brown","WR",564,2017,6,5,216,"Massachusetts Minutemen",-0.03
+"766",2022,99571,"Frank Ladson Jr.","Frank","Ladson Jr.","WR",468,2019,4,3,220,"Miami (FL) Hurricanes",-0.092
+"767",2022,122707,"Christian Fitzpatrick","Christian","Fitzpatrick","WR",39,2020,3,2,223,"Michigan State Spartans",-0.003
+"768",2022,97181,"Dayton Wade","Dayton","Wade","WR",521,2019,4,3,226,"Mississippi Rebels",-0.044
+"769",2022,61535,"Chancellor Brewington","Chancellor","Brewington","TE",319,2017,6,5,238,"Nebraska Cornhuskers",-0.054
+"770",2022,123978,"Elijah Canion","Elijah","Canion","WR",5,2020,3,2,273,"Purdue Boilermakers",-0.002
+"771",2022,99552,"Joshua Youngblood","Joshua","Youngblood","WR",101,2019,4,3,278,"Rutgers Scarlet Knights",-0.01
+"772",2022,121539,"Corey Rucker","Corey","Rucker","WR",15,2020,3,2,289,"South Carolina Gamecocks",0
+"773",2022,99130,"D'Wan Mathis","D'Wan","Mathis","WR",131,2019,4,3,306,"Temple Owls",-0.047
+"774",2022,71345,"Bru McCoy","Bru","McCoy","WR",790,2019,4,3,307,"Tennessee Volunteers",0.115
+"775",2022,84300,"Demarcus Gregory","Demarcus","Gregory","WR",74,2018,5,4,314,"Texas State Bobcats",-0.012
+"776",2022,147647,"Charles Brown","Charles","Brown","WR",430,2021,2,1,314,"Texas State Bobcats",-0.087
+"777",2022,98748,"Mikel Barkley","Mikel","Barkley","WR",398,2019,4,3,316,"Toledo Rockets",0.002
+"778",2022,122834,"Stephen Gosnell","Stephen","Gosnell","WR",267,2020,3,2,337,"Virginia Tech Hokies",-0.006
+"779",2022,78041,"Jayshon Jackson","Jayshon","Jackson","WR",770,2018,5,4,117,"Ball State Cardinals",-0.05
+"780",2022,98706,"Eugene Minter Jr.","Eugene","Minter Jr.","TE",192,2019,4,3,136,"Charlotte 49ers",-0.012
+"781",2022,84191,"Jaylen Johnson","Jaylen","Johnson","WR",467,2018,5,4,156,"East Carolina Pirates",-0.027
+"782",2022,91115,"Isaiah Winstead","Isaiah","Winstead","WR",890,2018,4,3,156,"East Carolina Pirates",0.186
+"783",2022,99584,"Emery Simmons","Emery","Simmons","WR",554,2019,4,3,190,"Indiana Hoosiers",-0.085
+"784",2022,122646,"Kyren Lacy","Kyren","Lacy","WR",342,2020,3,2,211,"LSU Tigers",-0.055
+"785",2022,98556,"Jayden Harrison","Jayden","Harrison","WR",207,2019,4,3,214,"Marshall Thundering Herd",0.016
+"786",2022,84176,"Jacob Copeland","Jacob","Copeland","WR",290,2018,5,4,215,"Maryland Terrapins",0.1
+"787",2022,104927,"Davion Ross","Davion","Ross","CB",519,2019,4,3,218,"Memphis Tigers",0.196
+"788",2022,129857,"Andrew Mason","Andrew","Mason","WR",15,2020,3,2,218,"Memphis Tigers",-0.002
+"789",2022,84224,"Miles Marshall","Miles","Marshall","WR",612,2018,5,4,221,"Miami (OH) RedHawks",-0.08
+"790",2022,105714,"Yahsyn McKee","Yahsyn","McKee","CB",470,2019,4,3,221,"Miami (OH) RedHawks",-0.036
+"791",2022,78051,"Jeremy Tate Jr","Jeremy","Tate Jr","TE",266,2018,5,4,224,"Middle Tennessee Blue Raiders",-0.11
+"792",2022,105693,"AJ Toney","AJ","Toney","WR",181,2019,4,3,224,"Middle Tennessee Blue Raiders",-0.059
+"793",2022,122730,"Jordan Watkins","Jordan","Watkins","WR",848,2020,3,2,226,"Mississippi Rebels",-0.096
+"794",2022,61133,"B.J. Casteel","B.J.","Casteel","WR",708,2017,6,5,239,"Nevada Wolf Pack",-0.16
+"795",2022,84215,"Carlos Sandy","Carlos","Sandy","WR",27,2018,5,4,239,"Nevada Wolf Pack",-0.008
+"796",2022,124211,"Ja'Mori Maclin","Ja'Mori","Maclin","WR",364,2020,3,2,251,"North Texas Mean Green",0.007
+"797",2022,136888,"Kaylon Horton","Kaylon","Horton","WR",81,2020,3,2,251,"North Texas Mean Green",0.131
+"798",2022,102612,"Kacper Rutkiewicz","Kacper","Rutkiewicz","WR",291,2019,4,3,254,"Northern Illinois Huskies",0.075
+"799",2022,84220,"Donny Navarro III","Donny","Navarro III","WR",671,2018,5,4,256,"Northwestern Wildcats",-0.332
+"800",2022,61107,"Tyrell Shavers","Tyrell","Shavers","WR",715,2017,6,5,284,"San Diego State Aztecs",-0.02
+"801",2022,84378,"Daniel George","Daniel","George","WR",831,2018,5,4,102,"Akron Zips",-0.024
+"802",2022,100894,"Jacob Cowing","Jacob","Cowing","WR",749,2019,4,3,109,"Arizona Wildcats",0.114
+"803",2022,77742,"Amare Jones","Amare","Jones","WR",419,2018,5,4,174,"Georgia Southern Eagles",0.087
+"804",2022,129552,"Ethan Dirrim","Ethan","Dirrim","TE",62,2020,3,2,174,"Georgia Southern Eagles",-0.031
+"805",2022,109834,"E.J. Jenkins","E.J.","Jenkins","WR",541,2019,3,2,176,"Georgia Tech Yellow Jackets",-0.047
+"806",2022,97800,"Jadon Jackson","Jadon","Jackson","WR",15,2019,4,3,199,"Kansas State Wildcats",-0.003
+"807",2022,99693,"Tayvion Robinson","Tayvion","Robinson","WR",487,2019,4,3,202,"Kentucky Wildcats",0.112
+"808",2022,52300,"Fred Lloyd Jr.","Fred","Lloyd Jr.","WR",159,2017,6,5,209,"Louisiana-Monroe Warhawks",0.005
+"809",2022,78807,"Zach Peterson","Zach","Peterson","WR",7,2018,5,4,222,"Michigan Wolverines",-0.002
+"810",2022,138481,"Isaiah Garcia-Castaneda","Isaiah","Garcia-Castaneda","WR",106,2020,3,2,238,"Nebraska Cornhuskers",-0.021
+"811",2022,101711,"Dalevon Campbell","Dalevon","Campbell","WR",652,2019,4,3,239,"Nevada Wolf Pack",-0.092
+"812",2022,88318,"Isaiah Esdale","Isaiah","Esdale","WR",595,2018,5,4,275,"Rice Owls",-0.013
+"813",2022,98212,"Garrett Shrader","Garrett","Shrader","QB",738,2019,4,3,304,"Syracuse Orange",0.504
+"814",2022,89528,"Gabe Sulser","Gabe","Sulser","WR",28,2018,5,4,311,"Texas Longhorns",0.001
+"815",2022,61360,"Isaiah Epps","Isaiah","Epps","WR",829,2017,6,5,320,"Tulsa Golden Hurricane",-0.203
+"816",2022,123000,"Jordan Addison","Jordan","Addison","WR",538,2020,3,2,326,"USC Trojans",0.237
+"817",2022,131692,"Brenden Rice","Brenden","Rice","WR",566,2020,3,2,326,"USC Trojans",0.111
+"818",2022,84087,"Xavier Williams","Xavier","Williams","WR",42,2018,5,4,329,"Utah State Aggies",-0.003
+"819",2022,123153,"Ja'Lynn Polk","Ja'Lynn","Polk","WR",603,2020,3,2,340,"Washington Huskies",0.006
+"820",2022,97215,"Lincoln Victor","Lincoln","Victor","WR",376,2019,4,3,341,"Washington State Cougars",-0.128
+"821",2022,61825,"Jaylen Hall","Jaylen","Hall","WR",942,2017,6,5,346,"Western Kentucky Hilltoppers",-0.2
+"822",2022,77960,"Shocky Jacques-Louis","Shocky","Jacques-Louis","WR",780,2018,5,4,102,"Akron Zips",0.083
+"823",2022,57246,"Johnnie Lang","Johnnie","Lang","HB",346,2017,6,5,113,"Arkansas State Red Wolves",0.201
+"824",2022,61237,"Quian Williams","Quian","Williams","WR",849,2017,6,5,126,"Buffalo Bulls",-0.053
+"825",2022,61272,"Trey Blount","Trey","Blount","WR",28,2017,6,5,136,"Charlotte 49ers",-0.009
+"826",2022,84358,"Nigel Fitzgerald","Nigel","Fitzgerald","WR",74,2018,4,3,146,"Connecticut Huskies",-0.006
+"827",2022,61806,"Ty Jones","Ty","Jones","WR",177,2017,6,5,169,"Fresno State Bulldogs",-0.089
+"828",2022,123410,"Samuel Brown","Samuel","Brown","WR",511,2020,3,2,182,"Houston Cougars",-0.021
+"829",2022,78779,"Terrance Greene Jr.","Terrance","Greene Jr.","WR",424,2018,5,4,197,"James Madison Dukes",0.054
+"830",2022,61494,"Kade Warner","Kade","Warner","WR",784,2017,6,5,199,"Kansas State Wildcats",0.041
+"831",2022,78108,"John Stephens Jr.","John","Stephens Jr.","WR",267,2018,5,4,207,"Louisiana Ragin' Cajuns",0.032
+"832",2022,84529,"Rico Arnold","Rico","Arnold","WR",147,2018,5,4,216,"Massachusetts Minutemen",-0.014
+"833",2022,99248,"Trey Palmer","Trey","Palmer","WR",515,2019,4,3,238,"Nebraska Cornhuskers",0.12
+"834",2022,63709,"Spencer Curtis","Spencer","Curtis","WR",543,2017,5,4,239,"Nevada Wolf Pack",-0.11
+"835",2022,152307,"Jordan Smart","Jordan","Smart","WR",225,2021,2,1,251,"North Texas Mean Green",0.003
+"836",2022,84180,"Shemar Thornton","Shemar","Thornton","WR",288,2018,5,4,254,"Northern Illinois Huskies",0.073
+"837",2022,61793,"James Bostic","James","Bostic","WR",630,2017,6,5,259,"Ohio Bobcats",0.081
+"838",2022,88315,"Sam Wiglusz","Sam","Wiglusz","WR",719,2018,5,4,259,"Ohio Bobcats",0.142
+"839",2022,124207,"JJ Hester","JJ","Hester","WR",54,2020,3,2,261,"Oklahoma Sooners",-0.006
+"840",2022,123470,"Mitchell Tinsley","Mitchell","Tinsley","WR",688,2020,3,2,266,"Penn State Nittany Lions",0.009
+"841",2022,98847,"Bub Means","Bub","Means","WR",523,2019,4,3,268,"Pittsburgh Panthers",-0.102
+"842",2022,145598,"Konata Mumpfield","Konata","Mumpfield","WR",658,2021,2,1,268,"Pittsburgh Panthers",0.059
+"843",2022,121708,"Tyson Thompson","Tyson","Thompson","WR",25,2020,3,2,275,"Rice Owls",-0.011
+"844",2022,78030,"Sean Ryan","Sean","Ryan","WR",430,2018,5,4,278,"Rutgers Scarlet Knights",0.066
+"845",2022,70363,"Isaac Jernagin","Isaac","Jernagin","WR",49,2020,2,1,285,"San Jose State Spartans",-0.02
+"846",2022,97855,"Charles Ross","Charles","Ross","WR",203,2019,4,3,285,"San Jose State Spartans",0.012
+"847",2022,151787,"Oakley Coleman","Oakley","Coleman","WR",12,2021,2,1,288,"South Alabama Jaguars",-0.002
+"848",2022,62988,"Adonicas Sanders","Adonicas","Sanders","WR",406,2017,6,5,306,"Temple Owls",0.075
+"849",2022,78155,"Julian Ortega-Jones","Julian","Ortega-Jones","WR",308,2018,5,4,314,"Texas State Bobcats",0.006
+"850",2022,74501,"Isaiah Holiness","Isaiah","Holiness","WR",56,2019,4,3,216,"Massachusetts Minutemen",0.003
+"851",2022,78085,"Jaylon Robinson","Jaylon","Robinson","WR",113,2018,5,4,226,"Mississippi Rebels",-0.013
+"852",2022,120861,"Odieu Hilaire","Odieu","Hilaire","WR",579,2019,4,3,122,"Bowling Green Falcons",-0.045
+"853",2022,100660,"Ricky Pearsall","Ricky","Pearsall","WR",523,2019,4,3,163,"Florida Gators",0.242
+"854",2022,84225,"Jacolby Hewitt","Jacolby","Hewitt","WR",108,2018,5,4,166,"Florida International Golden Panthers",-0.014
+"855",2022,97270,"Mycah Pittman","Mycah","Pittman","WR",462,2019,4,3,167,"Florida State Seminoles",0.199
+"856",2022,122413,"Bryan Robinson","Bryan","Robinson","WR",34,2020,3,2,214,"Marshall Thundering Herd",0.004
+"857",2022,101745,"Julian Barnett","Julian","Barnett","CB",26,2019,4,3,218,"Memphis Tigers",0.017
+"858",2022,131606,"LV Bunkley-Shelton","LV","Bunkley-Shelton","WR",133,2020,3,2,261,"Oklahoma Sooners",-0.049
+"859",2022,123555,"Marquez Bell","Marquez","Bell","WR",92,2020,3,2,263,"Old Dominion Monarchs",-0.023
+"860",2022,101634,"Luke McCaffrey","Luke","McCaffrey","WR",542,2019,4,3,275,"Rice Owls",0.095
+"861",2022,72158,"Jake Bailey","Jake","Bailey","WR",169,2019,4,3,287,"SMU Mustangs",0.016
+"862",2022,123112,"Moochie Dixon","Moochie","Dixon","WR",273,2020,3,2,287,"SMU Mustangs",0.183
+"863",2022,84346,"Lawrence Keys III","Lawrence","Keys III","WR",294,2018,5,4,319,"Tulane Green Wave",0.433
+"864",2022,129524,"DeaJaun McDougle","DeaJaun","McDougle","WR",288,2020,3,2,319,"Tulane Green Wave",-0.069
+"865",2022,98848,"Kenney Solomon","Kenney","Solomon","CB",316,2019,4,3,320,"Tulsa Golden Hurricane",0.029
+"866",2022,144464,"Titus Mokiao-Atimalala","Titus","Mokiao-Atimalala","WR",373,2021,2,1,324,"UCLA Bruins",0.064
+"867",2022,129639,"Ricky White","Ricky","White","WR",717,2020,3,2,325,"UNLV Rebels",-0.185
+"868",2022,61804,"Terrell Bynum","Terrell","Bynum","WR",290,2017,6,5,326,"USC Trojans",0.002
+"869",2022,77951,"Malcolm Epps","Malcolm","Epps","TE",159,2018,5,4,326,"USC Trojans",0.008
+"870",2022,144620,"Mario Williams","Mario","Williams","WR",574,2021,2,1,326,"USC Trojans",-0.102
+"871",2022,84138,"Matthew Hill","Matthew","Hill","S",306,2018,5,4,327,"USF Bulls",-0.03
+"872",2022,97398,"Khafre Brown","Khafre","Brown","WR",215,2019,4,3,327,"USF Bulls",-0.056
+"873",2022,99564,"Yusuf Terry","Yusuf","Terry","WR",296,2019,4,3,327,"USF Bulls",-0.044
+"874",2022,122137,"Ajou Ajou","Ajou","Ajou","WR",24,2020,3,2,327,"USF Bulls",-0.003
+"875",2022,146268,"Lonyatta Alexander","Lonyatta","Alexander","WR",60,2021,2,1,340,"Washington Huskies",0.005
+"876",2022,77969,"Tyler Harrell","Tyler","Harrell","WR",39,2018,5,4,103,"Alabama Crimson Tide",-0.002
+"877",2022,144831,"Jordyn Williams","Jordyn","Williams","WR",14,2021,2,1,134,"Central Michigan Chippewas",-0.039
+"878",2022,77996,"Dennis Smith","Dennis","Smith","WR",11,2018,5,4,160,"Eastern Michigan Eagles",-0.003
+"879",2022,102567,"Tyler Hudson","Tyler","Hudson","WR",724,2019,4,3,210,"Louisville Cardinals",0.26
+"880",2022,123302,"Gregory Clayton Jr.","Gregory","Clayton Jr.","WR",24,2020,3,2,211,"LSU Tigers",-0.003
+"881",2022,146279,"Tommi Hill","Tommi","Hill","CB",303,2021,2,1,238,"Nebraska Cornhuskers",-0.019
+"882",2022,129638,"Ian Stewart","Ian","Stewart","WR",140,2020,3,2,306,"Temple Owls",-0.01
+"883",2022,151095,"Jacob Rodriguez","Jacob","Rodriguez","LB",153,2021,2,1,315,"Texas Tech Red Raiders",0.003
+"884",2022,122902,"Jordan Johnson","Jordan","Johnson","WR",13,2020,3,2,323,"UCF Knights",-0.002
+"885",2022,109801,"Ryan Cragun","Ryan","Cragun","WR",12,2019,3,2,324,"UCLA Bruins",-0.002
+"886",2022,61291,"Tre'von Bradley","Tre'von","Bradley","WR",28,2017,6,5,331,"UTSA Roadrunners",-0.001
+"887",2022,131671,"Chris Carpenter","Chris","Carpenter","WR",142,2020,3,2,331,"UTSA Roadrunners",-0.038
+"888",2022,129707,"Will Nixon","Will","Nixon","HB",92,2020,3,2,340,"Washington Huskies",-0.022
+"889",2022,133220,"Robert Ferrel","Robert","Ferrel","WR",446,2020,3,2,341,"Washington State Cougars",0.215
+"890",2022,102956,"Kendall Abdur-Rahman","Kendall","Abdur-Rahman","WR",27,2019,4,3,346,"Western Kentucky Hilltoppers",-0.013
+"891",2022,61777,"Bryan Thompson","Bryan","Thompson","WR",337,2017,6,5,110,"Arizona State Sun Devils",0.048
+"892",2022,55196,"Chris Bacon","Chris","Bacon","S",847,2017,6,5,122,"Bowling Green Falcons",0.009
+"893",2022,61173,"CJ Lewis","CJ","Lewis","WR",499,2017,6,5,122,"Bowling Green Falcons",-0.107
+"894",2022,52319,"Randall St. Felix","Randall","St. Felix","WR",44,2017,6,5,166,"Florida International Golden Panthers",-0.002
+"895",2022,143894,"Parker Self","Parker","Self","T",14,2021,2,1,174,"Georgia Southern Eagles",-0.002
+"896",2022,144621,"Cody Jackson","Cody","Jackson","WR",34,2021,2,1,182,"Houston Cougars",-0.007
+"897",2022,146413,"Joseph Manjack IV","Joseph","Manjack IV","WR",208,2021,2,1,182,"Houston Cougars",0.003
+"898",2022,146930,"Andison Coby","Andison","Coby","WR",486,2021,2,1,190,"Indiana Hoosiers",-0.123
+"899",2022,146058,"Tru Edwards","Tru","Edwards","WR",18,2021,2,1,208,"Louisiana Tech Bulldogs",-0.004
+"900",2022,83459,"Beanie Bishop","Beanie","Bishop","CB",303,2018,5,4,225,"Minnesota Golden Gophers",0.131
+"901",2022,124173,"Malik Heath","Malik","Heath","WR",879,2020,3,2,226,"Mississippi Rebels",0.203
+"902",2022,124036,"Justin Robinson","Justin","Robinson","WR",332,2020,3,2,227,"Mississippi State Bulldogs",-0.025
+"903",2022,84316,"Dominic Gicinto","Dominic","Gicinto","WR",15,2018,5,4,242,"New Mexico State Aggies",-0.005
+"904",2022,84465,"Chase Cota","Chase","Cota","WR",529,2018,5,4,264,"Oregon Ducks",0.052
+"905",2022,77970,"Taj Harris","Taj","Harris","WR",11,2018,5,4,278,"Rutgers Scarlet Knights",-0.001
+"906",2022,61501,"Elijah Cooks","Elijah","Cooks","WR",687,2017,6,5,285,"San Jose State Spartans",0.293
+"907",2022,83710,"Tylan Knight","Tylan","Knight","CB",453,2018,5,4,296,"Southern Miss Golden Eagles",-0.026
+"908",2022,61584,"Daewood Davis","Daewood","Davis","WR",736,2017,6,5,346,"Western Kentucky Hilltoppers",0.046
+"909",2022,100275,"Michael Mathison","Michael","Mathison","WR",653,2019,4,3,346,"Western Kentucky Hilltoppers",0.037
+"910",2022,77971,"Jehlani Galloway","Jehlani","Galloway","WR",593,2018,5,4,347,"Western Michigan Broncos",-0.114
+"911",2022,84520,"A.J. Abbott","A.J.","Abbott","WR",87,2018,5,4,347,"Western Michigan Broncos",-0.008
